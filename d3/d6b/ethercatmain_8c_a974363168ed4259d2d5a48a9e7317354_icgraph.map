@@ -1,0 +1,6 @@
+<map id="ec_receive_processdata_group" name="ec_receive_processdata_group">
+<area shape="rect" id="node3" href="$d8/d38/ethercatmain_8h.html#a14280050ace4427d196acd17e6d79e55" title="ec_receive_processdata" alt="" coords="216,32,379,61"/>
+<area shape="rect" id="node5" href="$d2/dd1/fw__update_8c.html#a0b61db68de5685610c1325922debd520" title="slave_operation" alt="" coords="431,5,543,35"/>
+<area shape="rect" id="node7" href="$d2/dd1/fw__update_8c.html#a9e518a566b750155578e5328f5485c73" title="firmware_update" alt="" coords="428,59,545,88"/>
+<area shape="rect" id="node9" href="$da/d39/main_8xc.html#a840291bc02cba5474a4cb46a9b9566fe" title="main" alt="" coords="595,59,645,88"/>
+</map>

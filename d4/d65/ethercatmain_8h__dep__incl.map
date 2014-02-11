@@ -1,0 +1,11 @@
+<map id="app_linux_fwupdate/src/ethercatmain.h" name="app_linux_fwupdate/src/ethercatmain.h">
+<area shape="rect" id="node3" href="$d2/dff/ethercatcoe_8c.html" title="CAN over EtherCAT (CoE) module. " alt="" coords="5,102,141,149"/>
+<area shape="rect" id="node5" href="$d2/d04/ethercatconfig_8c.html" title="Configuration module for EtherCAT master. " alt="" coords="165,102,307,149"/>
+<area shape="rect" id="node7" href="$d1/d72/ethercatdc_8c.html" title="Distributed Clock EtherCAT functions. " alt="" coords="331,102,467,149"/>
+<area shape="rect" id="node9" href="$d6/d70/ethercatfoe_8c.html" title="File over EtherCAT (FoE) module. " alt="" coords="491,102,627,149"/>
+<area shape="rect" id="node11" href="$d3/d6b/ethercatmain_8c.html" title="Main EtherCAT functions. " alt="" coords="651,102,787,149"/>
+<area shape="rect" id="node13" href="$d8/d35/ethercatprint_8c.html" title="Module to convert EtherCAT errors to readable messages. " alt="" coords="811,102,947,149"/>
+<area shape="rect" id="node15" href="$d8/dfd/ethercatsoe_8c.html" title="Servo over EtherCAT (SoE) Module. " alt="" coords="971,102,1107,149"/>
+<area shape="rect" id="node17" href="$d2/dd1/fw__update_8c.html" title="Firmware Update for Synapticon SOMANET (modified from Example code for Simple Open EtherCAT master) ..." alt="" coords="1131,102,1267,149"/>
+<area shape="rect" id="node19" href="$d7/d2f/slaveinfo_8c.html" title="Example code for Simple Open EtherCAT master. " alt="" coords="1291,102,1427,149"/>
+</map>

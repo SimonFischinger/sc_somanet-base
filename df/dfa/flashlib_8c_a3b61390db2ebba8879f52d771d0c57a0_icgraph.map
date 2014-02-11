@@ -1,0 +1,19 @@
+<map id="fl_getNumSectors" name="fl_getNumSectors">
+<area shape="rect" id="node3" href="$df/dfa/flashlib_8c.html#af2ef69107a081338100714f35b55d2b4" title="fl_eraseAll" alt="" coords="219,5,301,35"/>
+<area shape="rect" id="node13" href="$df/dfa/flashlib_8c.html#a1a2f7c26d4b3f30997961c54cc86091f" title="fl_eraseAllDataSectors" alt="" coords="183,59,337,88"/>
+<area shape="rect" id="node15" href="$df/dfa/flashlib_8c.html#a706db7e49dc9b87c5eb4b08703766e07" title="fl_eraseDataSector" alt="" coords="193,112,327,141"/>
+<area shape="rect" id="node17" href="$df/dfa/flashlib_8c.html#a10e0e41c7b86cc4ededeb0c33a38a75d" title="fl_getNextBootImage" alt="" coords="188,165,332,195"/>
+<area shape="rect" id="node21" href="$df/dfa/flashlib_8c.html#a23bc6eb647ed8ba190df18f1bb7e9ef5" title="fl_getNumDataSectors" alt="" coords="183,219,337,248"/>
+<area shape="rect" id="node23" href="$df/dfa/flashlib_8c.html#aea6a11cdce54e32ab9ef47a14f746652" title="fl_getWriteScratchSize" alt="" coords="183,272,337,301"/>
+<area shape="rect" id="node25" href="$df/dfa/flashlib_8c.html#a324148726c3c56a53a66654b3b2e3280" title="fl_setBootPartitionSize" alt="" coords="183,325,337,355"/>
+<area shape="rect" id="node34" href="$df/dfa/flashlib_8c.html#a3558707626664fd2f5f6a5da36f606d5" title="fl_setProtection" alt="" coords="735,377,847,407"/>
+<area shape="rect" id="node37" href="$df/dfa/flashlib_8c.html#a0b9de23c2221ee978540ccf39df36f58" title="fl_writeData" alt="" coords="215,429,305,459"/>
+<area shape="rect" id="node5" href="$da/df9/flash__write_8c.html#ab0f5e74332e187a2dbcd0f78f48458e8" title="flash_erase" alt="" coords="596,167,684,196"/>
+<area shape="rect" id="node7" href="$da/df9/flash__write_8c.html#a68a08738ba4df3403b89a376ac330862" title="flash_setup" alt="" coords="897,324,985,353"/>
+<area shape="rect" id="node9" href="$da/d37/flash__somanet_8xc.html#a17156495777f802c805e3b2bb340500c" title="check_file_access" alt="" coords="1035,324,1165,353"/>
+<area shape="rect" id="node11" href="$da/d37/flash__somanet_8xc.html#a9e5fd5ed65b86c6c5a9aa1ffabc08486" title="Firmware update function This thread must be on CORE 0 only. " alt="" coords="1215,324,1332,353"/>
+<area shape="rect" id="node19" href="$df/dfa/flashlib_8c.html#a46bc82cb8669dd0e1c304e8528a02706" title="fl_eraseNextBootImage" alt="" coords="388,165,545,195"/>
+<area shape="rect" id="node27" href="$df/dfa/flashlib_8c.html#ad23b58e44ae1b5af52894fce310ca434" title="fl_connectToDevice" alt="" coords="397,325,536,355"/>
+<area shape="rect" id="node29" href="$df/dfa/flashlib_8c.html#a52a4484492e8e1fad90079d9d9567951" title="fl_connect" alt="" coords="599,325,681,355"/>
+<area shape="rect" id="node31" href="$da/df9/flash__write_8c.html#a71381947178f46aaf26d2c5a3c148a9f" title="flash_connect" alt="" coords="740,324,841,353"/>
+</map>

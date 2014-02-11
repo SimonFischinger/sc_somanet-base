@@ -1,0 +1,31 @@
+<map id="fl_int_issueShortCommand" name="fl_int_issueShortCommand">
+<area shape="rect" id="node3" href="$df/dfa/flashlib_8c.html#ad23b58e44ae1b5af52894fce310ca434" title="fl_connectToDevice" alt="" coords="235,5,373,35"/>
+<area shape="rect" id="node15" href="$d6/d53/device__access_8xc.html#a99136a21e084ae190aa7e560352a26e3" title="fl_int_getBusyStatus" alt="" coords="233,59,375,88"/>
+<area shape="rect" id="node19" href="$d6/d53/device__access_8xc.html#a119cdd041305e5408c518a4948654df6" title="fl_int_programPageAsync" alt="" coords="627,111,797,140"/>
+<area shape="rect" id="node24" href="$d6/d53/device__access_8xc.html#aa01818463fbb2ce3ea637549725e92c5" title="fl_int_getFullStatus" alt="" coords="237,163,371,192"/>
+<area shape="rect" id="node27" href="$df/dfa/flashlib_8c.html#a3558707626664fd2f5f6a5da36f606d5" title="fl_setProtection" alt="" coords="656,211,768,240"/>
+<area shape="rect" id="node30" href="$df/dfa/flashlib_8c.html#a1327d915bc1202dec40911e92977fcb7" title="fl_setSectorProtection" alt="" coords="427,267,576,296"/>
+<area shape="rect" id="node33" href="$df/dfa/flashlib_8c.html#afca05cd9d07e1a2a2bfda23a7191b1bc" title="fl_setWritability" alt="" coords="248,344,360,373"/>
+<area shape="rect" id="node5" href="$df/dfa/flashlib_8c.html#a52a4484492e8e1fad90079d9d9567951" title="fl_connect" alt="" coords="460,5,543,35"/>
+<area shape="rect" id="node7" href="$da/df9/flash__write_8c.html#a71381947178f46aaf26d2c5a3c148a9f" title="flash_connect" alt="" coords="875,20,976,49"/>
+<area shape="rect" id="node9" href="$da/df9/flash__write_8c.html#a68a08738ba4df3403b89a376ac330862" title="flash_setup" alt="" coords="1061,237,1149,267"/>
+<area shape="rect" id="node11" href="$da/d37/flash__somanet_8xc.html#a17156495777f802c805e3b2bb340500c" title="check_file_access" alt="" coords="1205,529,1336,559"/>
+<area shape="rect" id="node13" href="$da/d37/flash__somanet_8xc.html#a9e5fd5ed65b86c6c5a9aa1ffabc08486" title="Firmware update function This thread must be on CORE 0 only. " alt="" coords="1385,529,1503,559"/>
+<area shape="rect" id="node17" href="$d6/d53/device__access_8xc.html#af78bd1c2b5563e59057f372f76627004" title="fl_int_waitWhileWriting" alt="" coords="424,59,579,88"/>
+<area shape="rect" id="node21" href="$d6/d53/device__access_8xc.html#ab24728d7b2504b18f6d5e2b8e6cca21b" title="fl_int_programPage" alt="" coords="859,99,992,128"/>
+<area shape="rect" id="node36" href="$df/dfa/flashlib_8c.html#a2876e611cf9546f70196d3eba65e551c" title="fl_eraseSector" alt="" coords="448,371,555,400"/>
+<area shape="rect" id="node54" href="$df/dfa/flashlib_8c.html#a4674d4a2c001df74f5896bfa2b755fc6" title="fl_writePage" alt="" coords="455,529,548,559"/>
+<area shape="rect" id="node66" href="$df/dfa/flashlib_8c.html#af7955bbee8d2a50e0bd245d6440f6481" title="fl_endWriteImage" alt="" coords="651,688,773,717"/>
+<area shape="rect" id="node38" href="$df/dfa/flashlib_8c.html#af2ef69107a081338100714f35b55d2b4" title="fl_eraseAll" alt="" coords="671,264,753,293"/>
+<area shape="rect" id="node43" href="$df/dfa/flashlib_8c.html#a706db7e49dc9b87c5eb4b08703766e07" title="fl_eraseDataSector" alt="" coords="645,317,779,347"/>
+<area shape="rect" id="node45" href="$df/dfa/flashlib_8c.html#a1a2f7c26d4b3f30997961c54cc86091f" title="fl_eraseAllDataSectors" alt="" coords="635,371,789,400"/>
+<area shape="rect" id="node47" href="$df/dfa/flashlib_8c.html#acb5319d1f07823b2be65a52aa6ccc584" title="fl_deleteImage" alt="" coords="659,424,765,453"/>
+<area shape="rect" id="node51" href="$df/dfa/flashlib_8c.html#a0b9de23c2221ee978540ccf39df36f58" title="fl_writeData" alt="" coords="667,477,757,507"/>
+<area shape="rect" id="node40" href="$da/df9/flash__write_8c.html#ab0f5e74332e187a2dbcd0f78f48458e8" title="flash_erase" alt="" coords="881,264,969,293"/>
+<area shape="rect" id="node49" href="$df/dfa/flashlib_8c.html#a46bc82cb8669dd0e1c304e8528a02706" title="fl_eraseNextBootImage" alt="" coords="847,424,1004,453"/>
+<area shape="rect" id="node56" href="$da/df9/flash__write_8c.html#aa95af78c975518743162c9e42fd4abf3" title="flash_buffer" alt="" coords="1060,529,1151,559"/>
+<area shape="rect" id="node59" href="$df/dfa/flashlib_8c.html#a3c30029697e228c4c0e03f1bf9f2e5ce" title="fl_writeDataPage" alt="" coords="651,581,773,611"/>
+<area shape="rect" id="node61" href="$df/dfa/flashlib_8c.html#a798d15cac91a60cf0d42ef5dbaddafe4" title="fl_writeImagePage" alt="" coords="647,635,777,664"/>
+<area shape="rect" id="node63" href="$df/dfa/flashlib_8c.html#a0e9859ecf89b920715c00666e515a228" title="fl_addBootImage" alt="" coords="865,635,985,664"/>
+<area shape="rect" id="node68" href="$da/df9/flash__write_8c.html#a3e54da2e8e6ba5af71398e3a5231418e" title="flash_buf_end" alt="" coords="1055,635,1156,664"/>
+</map>

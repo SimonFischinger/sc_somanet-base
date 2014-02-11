@@ -1,0 +1,9 @@
+<map id="ec_readeeprom" name="ec_readeeprom">
+<area shape="rect" id="node3" href="$d4/d03/ethercatconfig_8h.html#ae9128b2cb982fd03fae9105d746f8656" title="ec_config_init" alt="" coords="177,32,279,61"/>
+<area shape="rect" id="node15" href="$d4/d03/ethercatconfig_8h.html#a9b5b7f6f83d4ee41b72306891f0679f1" title="ec_recover_slave" alt="" coords="167,85,289,115"/>
+<area shape="rect" id="node5" href="$d4/d03/ethercatconfig_8h.html#a502e65cce3b0b5f8dbcabf6f25dab351" title="ec_config" alt="" coords="360,5,437,35"/>
+<area shape="rect" id="node11" href="$d2/dd1/fw__update_8c.html#a9e518a566b750155578e5328f5485c73" title="firmware_update" alt="" coords="340,59,457,88"/>
+<area shape="rect" id="node7" href="$d7/d2f/slaveinfo_8c.html#a3552c609d2e51520c4afde65240a22d6" title="slaveinfo" alt="" coords="507,5,581,35"/>
+<area shape="rect" id="node9" href="$d7/d2f/slaveinfo_8c.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="629,5,680,35"/>
+<area shape="rect" id="node13" href="$da/d39/main_8xc.html#a840291bc02cba5474a4cb46a9b9566fe" title="main" alt="" coords="519,59,569,88"/>
+</map>

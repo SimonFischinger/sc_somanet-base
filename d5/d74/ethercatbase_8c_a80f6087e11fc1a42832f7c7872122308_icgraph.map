@@ -1,0 +1,13 @@
+<map id="ec_APRD" name="ec_APRD">
+<area shape="rect" id="node3" href="$df/dd2/ethercatbase_8h.html#ae04f6096929eed658625620ba507b219" title="ec_APRDw" alt="" coords="181,32,272,61"/>
+<area shape="rect" id="node17" href="$d3/d6b/ethercatmain_8c.html#af4b40499a69dd20db5aa8da081c7274f" title="ec_eeprom_waitnotbusyAP" alt="" coords="136,136,317,165"/>
+<area shape="rect" id="node19" href="$d8/d38/ethercatmain_8h.html#ad1f3c620e76b3395d7deccc23ef0f8c5" title="ec_readeepromAP" alt="" coords="368,84,496,113"/>
+<area shape="rect" id="node21" href="$d2/dd1/fw__update_8c.html#a1f7b392753323c242f0c4fafb71def77" title="eeprom_read" alt="" coords="548,109,644,139"/>
+<area shape="rect" id="node5" href="$d4/d03/ethercatconfig_8h.html#ae9128b2cb982fd03fae9105d746f8656" title="ec_config_init" alt="" coords="381,31,483,60"/>
+<area shape="rect" id="node7" href="$d4/d03/ethercatconfig_8h.html#a502e65cce3b0b5f8dbcabf6f25dab351" title="ec_config" alt="" coords="557,5,635,35"/>
+<area shape="rect" id="node13" href="$d2/dd1/fw__update_8c.html#a9e518a566b750155578e5328f5485c73" title="firmware_update" alt="" coords="695,84,812,113"/>
+<area shape="rect" id="node9" href="$d7/d2f/slaveinfo_8c.html#a3552c609d2e51520c4afde65240a22d6" title="slaveinfo" alt="" coords="716,5,791,35"/>
+<area shape="rect" id="node11" href="$d7/d2f/slaveinfo_8c.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="861,5,912,35"/>
+<area shape="rect" id="node15" href="$da/d39/main_8xc.html#a840291bc02cba5474a4cb46a9b9566fe" title="main" alt="" coords="861,84,912,113"/>
+<area shape="rect" id="node24" href="$d8/d38/ethercatmain_8h.html#a968dc550dde8340fbe80032f81662427" title="ec_writeeepromAP" alt="" coords="367,137,497,167"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="fl_eraseAll" name="fl_eraseAll">
+<area shape="rect" id="node3" href="$da/df9/flash__write_8c.html#ab0f5e74332e187a2dbcd0f78f48458e8" title="flash_erase" alt="" coords="137,5,225,35"/>
+<area shape="rect" id="node5" href="$da/df9/flash__write_8c.html#a68a08738ba4df3403b89a376ac330862" title="flash_setup" alt="" coords="276,5,364,35"/>
+<area shape="rect" id="node7" href="$da/d37/flash__somanet_8xc.html#a17156495777f802c805e3b2bb340500c" title="check_file_access" alt="" coords="413,5,544,35"/>
+<area shape="rect" id="node9" href="$da/d37/flash__somanet_8xc.html#a9e5fd5ed65b86c6c5a9aa1ffabc08486" title="Firmware update function This thread must be on CORE 0 only. " alt="" coords="593,5,711,35"/>
+</map>

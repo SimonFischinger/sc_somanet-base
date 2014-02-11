@@ -1,0 +1,7 @@
+<map id="fl_setSectorProtection" name="fl_setSectorProtection">
+<area shape="rect" id="node3" href="$df/dfa/flashlib_8c.html#a99564c0c2c3b18f122d551dd5621d1fe" title="fl_getSectorAddress" alt="" coords="213,5,352,35"/>
+<area shape="rect" id="node7" href="$d7/dee/device__access_8h.html#a337b2d2786247180a460fd0bab3f68b5" title="fl_int_issueShortCommand" alt="" coords="408,111,587,140"/>
+<area shape="rect" id="node9" href="$d7/dee/device__access_8h.html#a6c1bbcb51957e927bca94d3538796765" title="fl_int_waitWhileWriting" alt="" coords="205,109,360,139"/>
+<area shape="rect" id="node11" href="$df/dfa/flashlib_8c.html#afca05cd9d07e1a2a2bfda23a7191b1bc" title="fl_setWritability" alt="" coords="227,163,339,192"/>
+<area shape="rect" id="node5" href="$df/dfa/flashlib_8c.html#a16979f134ba813049ace4eaf4469de15" title="fl_getPageSize" alt="" coords="443,5,552,35"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="fl_int_waitWhileWriting" name="fl_int_waitWhileWriting">
+<area shape="rect" id="node3" href="$d6/d53/device__access_8xc.html#a99136a21e084ae190aa7e560352a26e3" title="fl_int_getBusyStatus" alt="" coords="209,5,351,35"/>
+<area shape="rect" id="node5" href="$d6/d53/device__access_8xc.html#a337b2d2786247180a460fd0bab3f68b5" title="fl_int_issueShortCommand" alt="" coords="400,5,579,35"/>
+</map>

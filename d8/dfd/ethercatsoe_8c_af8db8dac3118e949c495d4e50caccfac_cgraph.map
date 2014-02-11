@@ -1,0 +1,18 @@
+<map id="ec_SoEread" name="ec_SoEread">
+<area shape="rect" id="node3" href="$d3/d6b/ethercatmain_8c.html#a652d40885e8275a02ddcf94fbd077c99" title="ec_clearmbx" alt="" coords="155,57,251,87"/>
+<area shape="rect" id="node5" href="$d3/d6b/ethercatmain_8c.html#a7c1a13c5372ba1b38c9d04085c191e73" title="ec_mbxreceive" alt="" coords="308,109,417,139"/>
+<area shape="rect" id="node28" href="$d3/d6b/ethercatmain_8c.html#a575bb6105662ad54fe55c47fc72075c4" title="ec_mbxsend" alt="" coords="155,161,251,191"/>
+<area shape="rect" id="node34" href="$d3/d6b/ethercatmain_8c.html#a1e178403f6eb467358bdfcc9eb086691" title="ec_nextmbxcnt" alt="" coords="148,215,257,244"/>
+<area shape="rect" id="node36" href="$d3/d6b/ethercatmain_8c.html#a430e1266d5c0c1bd4153b660e4fa5298" title="ec_packeterror" alt="" coords="149,268,256,297"/>
+<area shape="rect" id="node40" href="$d8/dfd/ethercatsoe_8c.html#a4e7bc2ffc0f30d2427844f2609c14bee" title="ec_SoEerror" alt="" coords="156,321,249,351"/>
+<area shape="rect" id="node7" href="$d5/d74/ethercatbase_8c.html#aac2dc2b5a39ace0793473ab89bb56c7d" title="ec_FPRD" alt="" coords="468,69,548,99"/>
+<area shape="rect" id="node22" href="$d5/d74/ethercatbase_8c.html#aa2fe58363a824f15838718ee31f11ffc" title="ec_FPWR" alt="" coords="467,136,549,165"/>
+<area shape="rect" id="node9" href="$dc/d9b/nicdrv_8c.html#ae3520c51670d8e4e3e360f26fd8acee4" title="ec_getindex" alt="" coords="617,29,708,59"/>
+<area shape="rect" id="node11" href="$dc/d9b/nicdrv_8c.html#a121be26fdb9da9ef5b9f217fdcd2d50f" title="ec_setbufstat" alt="" coords="785,56,887,85"/>
+<area shape="rect" id="node13" href="$d5/d74/ethercatbase_8c.html#a3b9a1e2b9fc1e15cf147a85d484db027" title="ec_setupdatagram" alt="" coords="599,136,727,165"/>
+<area shape="rect" id="node15" href="$dc/d9b/nicdrv_8c.html#ae49716ef495b23fc91261396fb2f49ec" title="ec_srconfirm" alt="" coords="615,83,711,112"/>
+<area shape="rect" id="node17" href="$dc/d9b/nicdrv_8c.html#afb39cbe067b1afa202e8c487a33c4d66" title="ec_outframe_red" alt="" coords="777,109,895,139"/>
+<area shape="rect" id="node19" href="$dc/d9b/nicdrv_8c.html#ace7534023c2df9a309fc51a5e7fd6d94" title="ec_outframe" alt="" coords="945,109,1039,139"/>
+<area shape="rect" id="node31" href="$d3/d6b/ethercatmain_8c.html#a78a07c2b50526e0f99334f7d2782264f" title="ec_mbxempty" alt="" coords="311,56,415,85"/>
+<area shape="rect" id="node38" href="$d3/d6b/ethercatmain_8c.html#a91e361f3f3615c5ee22eb17def4d1532" title="ec_pusherror" alt="" coords="315,295,411,324"/>
+</map>

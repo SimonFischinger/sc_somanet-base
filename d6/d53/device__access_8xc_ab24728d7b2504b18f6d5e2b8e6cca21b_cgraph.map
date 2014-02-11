@@ -1,0 +1,7 @@
+<map id="fl_int_programPage" name="fl_int_programPage">
+<area shape="rect" id="node3" href="$d6/d53/device__access_8xc.html#a119cdd041305e5408c518a4948654df6" title="fl_int_programPageAsync" alt="" coords="189,57,360,87"/>
+<area shape="rect" id="node9" href="$d6/d53/device__access_8xc.html#af78bd1c2b5563e59057f372f76627004" title="fl_int_waitWhileWriting" alt="" coords="408,109,563,139"/>
+<area shape="rect" id="node5" href="$df/dfa/flashlib_8c.html#a16979f134ba813049ace4eaf4469de15" title="fl_getPageSize" alt="" coords="431,5,540,35"/>
+<area shape="rect" id="node7" href="$d6/d53/device__access_8xc.html#a337b2d2786247180a460fd0bab3f68b5" title="fl_int_issueShortCommand" alt="" coords="803,84,981,113"/>
+<area shape="rect" id="node11" href="$d6/d53/device__access_8xc.html#a99136a21e084ae190aa7e560352a26e3" title="fl_int_getBusyStatus" alt="" coords="612,109,753,139"/>
+</map>

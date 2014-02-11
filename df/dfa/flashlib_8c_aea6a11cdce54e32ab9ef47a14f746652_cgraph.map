@@ -1,0 +1,9 @@
+<map id="fl_getWriteScratchSize" name="fl_getWriteScratchSize">
+<area shape="rect" id="node3" href="$df/dfa/flashlib_8c.html#a8ccbe7b65551adf7bf1ecf0479e2dfc6" title="fl_getDataPartitionBase" alt="" coords="211,5,371,35"/>
+<area shape="rect" id="node9" href="$df/dfa/flashlib_8c.html#a3b61390db2ebba8879f52d771d0c57a0" title="fl_getNumSectors" alt="" coords="433,59,559,88"/>
+<area shape="rect" id="node12" href="$df/dfa/flashlib_8c.html#a99564c0c2c3b18f122d551dd5621d1fe" title="fl_getSectorAddress" alt="" coords="221,109,360,139"/>
+<area shape="rect" id="node16" href="$df/dfa/flashlib_8c.html#a570137cb3fd7f4c7f3178ee3cf6a8dfa" title="fl_getSectorSize" alt="" coords="232,163,349,192"/>
+<area shape="rect" id="node5" href="$df/dfa/flashlib_8c.html#a8d249287795e51c71d2aad170ea6675b" title="fl_getBootPartitionSize" alt="" coords="419,5,573,35"/>
+<area shape="rect" id="node7" href="$df/dfa/flashlib_8c.html#ab799c7f07d473e0e76035ff44b6f85e1" title="fl_getFlashSize" alt="" coords="621,32,733,61"/>
+<area shape="rect" id="node14" href="$df/dfa/flashlib_8c.html#a16979f134ba813049ace4eaf4469de15" title="fl_getPageSize" alt="" coords="441,137,551,167"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="fl_deleteImage" name="fl_deleteImage">
+<area shape="rect" id="node3" href="$df/dfa/flashlib_8c.html#a2876e611cf9546f70196d3eba65e551c" title="fl_eraseSector" alt="" coords="160,32,267,61"/>
+<area shape="rect" id="node5" href="$d7/dee/device__access_8h.html#a6c1bbcb51957e927bca94d3538796765" title="fl_int_waitWhileWriting" alt="" coords="315,5,469,35"/>
+<area shape="rect" id="node7" href="$df/dfa/flashlib_8c.html#afca05cd9d07e1a2a2bfda23a7191b1bc" title="fl_setWritability" alt="" coords="336,59,448,88"/>
+<area shape="rect" id="node9" href="$d7/dee/device__access_8h.html#a337b2d2786247180a460fd0bab3f68b5" title="fl_int_issueShortCommand" alt="" coords="517,59,696,88"/>
+</map>

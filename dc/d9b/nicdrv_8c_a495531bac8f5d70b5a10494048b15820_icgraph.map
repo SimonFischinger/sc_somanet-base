@@ -1,0 +1,9 @@
+<map id="ec_setupheader" name="ec_setupheader">
+<area shape="rect" id="node3" href="$d9/d46/nicdrv_8h.html#a5b5e0bf5e801e9f30a0fcd9b50b3efc5" title="ec_setupnic" alt="" coords="169,59,260,88"/>
+<area shape="rect" id="node5" href="$d8/d38/ethercatmain_8h.html#a4f50e3fbd5f3d756b4b87043a0f87d62" title="ec_init" alt="" coords="343,32,401,61"/>
+<area shape="rect" id="node15" href="$d8/d38/ethercatmain_8h.html#a4d1d28e0a02ab9dbf743534d399d050e" title="ec_init_redundant" alt="" coords="311,85,433,115"/>
+<area shape="rect" id="node7" href="$d2/dd1/fw__update_8c.html#a9e518a566b750155578e5328f5485c73" title="firmware_update" alt="" coords="484,5,601,35"/>
+<area shape="rect" id="node11" href="$d7/d2f/slaveinfo_8c.html#a3552c609d2e51520c4afde65240a22d6" title="slaveinfo" alt="" coords="505,59,580,88"/>
+<area shape="rect" id="node9" href="$da/d39/main_8xc.html#a840291bc02cba5474a4cb46a9b9566fe" title="main" alt="" coords="651,5,701,35"/>
+<area shape="rect" id="node13" href="$d7/d2f/slaveinfo_8c.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="651,59,701,88"/>
+</map>
