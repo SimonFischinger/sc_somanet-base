@@ -25,7 +25,7 @@ var NAVTREEINDEX4 =
 "dd/dd3/structec__eepromSMt.html#abceca2637e4fe2506215c325b11efa3a":[2,0,4,1],
 "dd/dd3/structec__eepromSMt.html#ace77740052e537f0e730f520768f714e":[2,0,4,0],
 "dd/dd3/structec__eepromSMt.html#ad6d7e4e076741a92c65f0b0eaa2f9d1e":[2,0,4,7],
-"de/d54/legal.html":[0],
+"de/d54/legal.html":[1],
 "de/d8d/structec__ODlistt.html":[2,0,10],
 "de/d8d/structec__ODlistt.html#a22088fc7bc26d33bed9a727772701190":[2,0,10,5],
 "de/d8d/structec__ODlistt.html#a2364d4be8e5e3f2980dc298703cac205":[2,0,10,4],

@@ -1,8 +1,8 @@
 var NAVTREE =
 [
   [ "sc_somanet-base", "index.html", [
-    [ "License", "de/d54/legal.html", null ],
     [ "Synapticon", "d4/df0/Synapticon.html", null ],
+    [ "License", "de/d54/legal.html", null ],
     [ "Data Structures", null, [
       [ "Data Structures", "annotated.html", "annotated" ],
       [ "Data Structure Index", "classes.html", null ],

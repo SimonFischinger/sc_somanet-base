@@ -209,7 +209,7 @@ var NAVTREEINDEX1 =
 "d4/da6/structec__idxstackT.html#ab85f89f444110b7cf5dac8b7926dcc1b":[2,0,9,1],
 "d4/da6/structec__idxstackT.html#abc8d5cde60c88f275e5de97ec2ccbac2":[2,0,9,3],
 "d4/da6/structec__idxstackT.html#affd71cb33d9d90391621039bc2a528a3":[2,0,9,4],
-"d4/df0/Synapticon.html":[1],
+"d4/df0/Synapticon.html":[0],
 "d5/d21/structPACKED.html":[2,0,18],
 "d5/d21/structPACKED.html#a02c5c5f6ba153da9b11a9c8b4f42aa2d":[2,0,18,21],
 "d5/d21/structPACKED.html#a04d377841371ceb0c82d9fce1b2e9f0d":[2,0,18,31],
