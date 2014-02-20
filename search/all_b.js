@@ -23,5 +23,9 @@ var searchData=
   ['mode_5fnone',['MODE_NONE',['../d2/dd1/fw__update_8c.html#a711fffeb11b40c66d48792fcd6664aa7',1,'fw_update.c']]],
   ['mode_5fscan',['MODE_SCAN',['../d2/dd1/fw__update_8c.html#ac80e2a683e7477947b86b63544637876',1,'fw_update.c']]],
   ['mode_5fsequential',['MODE_SEQUENTIAL',['../d2/dd1/fw__update_8c.html#aeb3ab2e7a6c84646a502bc2df49e66bc',1,'fw_update.c']]],
-  ['mode_5fserial',['MODE_SERIAL',['../d2/dd1/fw__update_8c.html#a8e9a32114c13dcf1c056c3c31d444318',1,'fw_update.c']]]
+  ['mode_5fserial',['MODE_SERIAL',['../d2/dd1/fw__update_8c.html#a8e9a32114c13dcf1c056c3c31d444318',1,'fw_update.c']]],
+  ['module_5fcloudconnect',['module_cloudconnect',['../da/dd5/module_cloudconnect.html',1,'']]],
+  ['module_5ffwupdate',['module_fwupdate',['../d9/d1f/module_fwupdate.html',1,'']]],
+  ['module_5fnodeconfig',['module_nodeconfig',['../d5/d1e/module_nodeconfig.html',1,'']]],
+  ['module_5fpowermgmt',['module_powermgmt',['../d9/d82/module_powermgmt.html',1,'']]]
 ];

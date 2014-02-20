@@ -1,5 +1,6 @@
 var searchData=
 [
+  ['synapticon',['Synapticon',['../de/daa/company.html',1,'']]],
   ['sa0',['sa0',['../d5/d21/structPACKED.html#ab958e5a38948143f719acc50d5eb0fcd',1,'PACKED']]],
   ['sa1',['sa1',['../d5/d21/structPACKED.html#ade83dfd737dcdddbf2c70886da884098',1,'PACKED']]],
   ['sa2',['sa2',['../d5/d21/structPACKED.html#ae08b59f8147d602910b297478db6b539',1,'PACKED']]],
@@ -30,6 +31,7 @@ var searchData=
   ['somanet_5fcom',['SOMANET_COM',['../d2/d9f/nodeconfig_8h.html#a243507a0a07a06ee0f1a3b11aaf8d148',1,'SOMANET_COM():&#160;nodeconfig.h'],['../d6/d8b/ioports_8h.html#a243507a0a07a06ee0f1a3b11aaf8d148',1,'SOMANET_COM():&#160;ioports.h']]],
   ['somanet_5fcore',['SOMANET_CORE',['../d2/d9f/nodeconfig_8h.html#abb2df932de5c44d6883a36b33cca14b3',1,'SOMANET_CORE():&#160;nodeconfig.h'],['../d6/d8b/ioports_8h.html#abb2df932de5c44d6883a36b33cca14b3',1,'SOMANET_CORE():&#160;ioports.h']]],
   ['somanet_5fifm',['SOMANET_IFM',['../d2/d9f/nodeconfig_8h.html#a80ce5bf45acfd2352805af6df78c2079',1,'SOMANET_IFM():&#160;nodeconfig.h'],['../d6/d8b/ioports_8h.html#a80ce5bf45acfd2352805af6df78c2079',1,'SOMANET_IFM():&#160;ioports.h']]],
+  ['sort_2edox',['sort.dox',['../db/df8/sort_8dox.html',1,'']]],
   ['spec_5fdefinitions_2eh',['spec_definitions.h',['../db/da0/spec__definitions_8h.html',1,'']]],
   ['sreg',['Sreg',['../dd/dd3/structec__eepromSMt.html#a46c0886770a7704ea5cd03d6a21890ff',1,'ec_eepromSMt']]],
   ['start_5ffile',['start_file',['../d2/dd1/fw__update_8c.html#a7db02e0d40f35ba4b041e087dfd604d3',1,'fw_update.c']]],
@@ -45,7 +47,7 @@ var searchData=
   ['suffix_5fh',['SUFFIX_H',['../d6/d8b/ioports_8h.html#a8a08154fd802e65b435a6f36310d9dd8',1,'ioports.h']]],
   ['suffix_5fxc',['SUFFIX_XC',['../d6/d8b/ioports_8h.html#a7c9832125fef897f803eaf4a4132abe8',1,'ioports.h']]],
   ['swap',['SWAP',['../d2/dbb/ethercattype_8h.html#a0fec1d9105fab978b94f25a7a2f0a53a',1,'ethercattype.h']]],
-  ['synapticon_2edox',['synapticon.dox',['../d6/de7/synapticon_8dox.html',1,'']]],
+  ['synapticon_2edox',['SYNAPTICON.dox',['../d1/d41/SYNAPTICON_8dox.html',1,'']]],
   ['syncdelay',['SyncDelay',['../d1/d72/ethercatdc_8c.html#a7aec534e63f6fe476241f41580dc1691',1,'ethercatdc.c']]],
   ['syncm',['SyncM',['../d0/d1b/structec__eepromPDOt.html#ab3d4f01f04a9b7e25dbfe9c52cec24de',1,'ec_eepromPDOt']]]
 ];

@@ -1,7 +1,9 @@
 var searchData=
 [
-  ['slaveinfo_2ec',['slaveinfo.c',['../d7/d2f/slaveinfo_8c.html',1,'']]],
-  ['soem_2edox',['soem.dox',['../d5/d4e/soem_8dox.html',1,'']]],
-  ['spec_5fdefinitions_2eh',['spec_definitions.h',['../db/da0/spec__definitions_8h.html',1,'']]],
-  ['synapticon_2edox',['synapticon.dox',['../d6/de7/synapticon_8dox.html',1,'']]]
+  ['readme_2edox',['README.dox',['../df/daf/app__fwupdate_2README_8dox.html',1,'']]],
+  ['readme_2edox',['README.dox',['../da/d0e/module__powermgmt_2README_8dox.html',1,'']]],
+  ['readme_2edox',['README.dox',['../d8/dc1/module__nodeconfig_2README_8dox.html',1,'']]],
+  ['readme_2edox',['README.dox',['../dd/dfd/module__fwupdate_2README_8dox.html',1,'']]],
+  ['readme_2edox',['README.dox',['../d1/d68/module__cloudconnect_2README_8dox.html',1,'']]],
+  ['readme_2edox',['README.dox',['../d9/dd8/app__linux__fwupdate_2README_8dox.html',1,'']]]
 ];

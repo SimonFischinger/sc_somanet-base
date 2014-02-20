@@ -1,7 +1,13 @@
 var NAVTREE =
 [
   [ "sc_somanet-base", "index.html", [
-    [ "Synapticon", "d4/df0/Synapticon.html", null ],
+    [ "app_fwupdate", "db/d3e/app_fwupdate.html", null ],
+    [ "app_linux_fwupdate", "d8/d02/app_linux_fwupdate.html", null ],
+    [ "module_fwupdate", "d9/d1f/module_fwupdate.html", null ],
+    [ "module_cloudconnect", "da/dd5/module_cloudconnect.html", null ],
+    [ "module_nodeconfig", "d5/d1e/module_nodeconfig.html", null ],
+    [ "module_powermgmt", "d9/d82/module_powermgmt.html", null ],
+    [ "Synapticon", "de/daa/company.html", null ],
     [ "License", "de/d54/legal.html", null ],
     [ "Data Structures", null, [
       [ "Data Structures", "annotated.html", "annotated" ],
@@ -31,8 +37,8 @@ var NAVTREEINDEX =
 "annotated.html",
 "d2/dbb/ethercattype_8h.html#ad84fdcfc25cec6820c3ade24359c26e9",
 "d5/d21/structPACKED.html#a6f15bfec859639c84431396398bf0823",
-"d8/d38/ethercatmain_8h.html#aa9c784abc9a4ede41d3d8d688b4a7dc5",
-"dd/d43/structec__groupt.html#a14723e0a5dec5ac026da07c1a141e9e4"
+"d8/d38/ethercatmain_8h.html#aa8af54f31728e900657522c71b0f4fb9",
+"dc/dda/core__c22__h_8inc_source.html"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';
