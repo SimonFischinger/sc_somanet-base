@@ -1,12 +1,16 @@
 var NAVTREE =
 [
-  [ "sc_somanet-base", "index.html", [
-    [ "app_fwupdate", "db/d3e/app_fwupdate.html", null ],
-    [ "app_linux_fwupdate", "d8/d02/app_linux_fwupdate.html", null ],
-    [ "module_fwupdate", "d9/d1f/module_fwupdate.html", null ],
-    [ "module_cloudconnect", "da/dd5/module_cloudconnect.html", null ],
-    [ "module_nodeconfig", "d5/d1e/module_nodeconfig.html", null ],
-    [ "module_powermgmt", "d9/d82/module_powermgmt.html", null ],
+  [ "sc_sncn_ethercat", "index.html", [
+    [ "Modules", "d7/df6/mods.html", [
+      [ "module_cloudconnect", "d7/df6/mods.html#module_cloudconnect", null ],
+      [ "module_fwupdate", "d7/df6/mods.html#module_fwupdate", null ],
+      [ "module_nodeconfig", "d7/df6/mods.html#module_nodeconfig", null ],
+      [ "module_powermgmt", "d7/df6/mods.html#module_powermgmt", null ]
+    ] ],
+    [ "Applications", "d3/d4f/apps.html", [
+      [ "app_fwupdate", "d3/d4f/apps.html#app_fwupdate", null ],
+      [ "app_linux_fwupdate", "d3/d4f/apps.html#app_linux_fwupdate", null ]
+    ] ],
     [ "Synapticon", "de/daa/company.html", null ],
     [ "License", "de/d54/legal.html", null ],
     [ "Data Structures", null, [
@@ -36,9 +40,9 @@ var NAVTREEINDEX =
 [
 "annotated.html",
 "d2/dbb/ethercattype_8h.html#ad84fdcfc25cec6820c3ade24359c26e9",
-"d5/d21/structPACKED.html#a6f15bfec859639c84431396398bf0823",
-"d8/d38/ethercatmain_8h.html#aa8af54f31728e900657522c71b0f4fb9",
-"dc/dda/core__c22__h_8inc_source.html"
+"d5/d21/structPACKED.html#a6a97ce60dec2215f7357718e072f1a67",
+"d8/d38/ethercatmain_8h.html#a8f77918c0a6a32be1079a11119171901",
+"dc/d9b/nicdrv_8c_source.html"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

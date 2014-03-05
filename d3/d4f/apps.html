@@ -4,7 +4,7 @@
 <meta http-equiv="Content-Type" content="text/xhtml;charset=UTF-8"/>
 <meta http-equiv="X-UA-Compatible" content="IE=9"/>
 <meta name="generator" content="Doxygen 1.8.6"/>
-<title>sc_sncn_ethercat: module_nodeconfig/src/ifm_null_xc.inc Source File</title>
+<title>sc_sncn_ethercat: Applications</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -47,9 +47,9 @@ var searchBox = new SearchBox("searchBox", "../../search",false,'Search');
   <div id="navrow1" class="tabs">
     <ul class="tablist">
       <li><a href="../../index.html"><span>Main&#160;Page</span></a></li>
-      <li><a href="../../pages.html"><span>Related&#160;Pages</span></a></li>
+      <li class="current"><a href="../../pages.html"><span>Related&#160;Pages</span></a></li>
       <li><a href="../../annotated.html"><span>Data&#160;Structures</span></a></li>
-      <li class="current"><a href="../../files.html"><span>Files</span></a></li>
+      <li><a href="../../files.html"><span>Files</span></a></li>
       <li>
         <div id="MSearchBox" class="MSearchBoxInactive">
         <span class="left">
@@ -68,12 +68,6 @@ var searchBox = new SearchBox("searchBox", "../../search",false,'Search');
       </li>
     </ul>
   </div>
-  <div id="navrow2" class="tabs2">
-    <ul class="tablist">
-      <li><a href="../../files.html"><span>File&#160;List</span></a></li>
-      <li><a href="../../globals.html"><span>Globals</span></a></li>
-    </ul>
-  </div>
 </div><!-- top -->
 <div id="side-nav" class="ui-resizable side-nav-resizable">
   <div id="nav-tree">
@@ -86,7 +80,7 @@ var searchBox = new SearchBox("searchBox", "../../search",false,'Search');
   </div>
 </div>
 <script type="text/javascript">
-$(document).ready(function(){initNavTree('dc/d3d/ifm__null__xc_8inc_source.html','../../');});
+$(document).ready(function(){initNavTree('d3/d4f/apps.html','../../');});
 </script>
 <div id="doc-content">
 <!-- window showing the filter options -->
@@ -105,19 +99,30 @@ $(document).ready(function(){initNavTree('dc/d3d/ifm__null__xc_8inc_source.html'
 
 <div class="header">
   <div class="headertitle">
-<div class="title">ifm_null_xc.inc</div>  </div>
+<div class="title">Applications </div>  </div>
 </div><!--header-->
 <div class="contents">
-<a href="../../dc/d3d/ifm__null__xc_8inc.html">Go to the documentation of this file.</a><div class="fragment"><div class="line"><a name="l00001"></a><span class="lineno">    1</span>&#160;<span class="preprocessor">#pragma once</span></div>
-<div class="line"><a name="l00002"></a><span class="lineno">    2</span>&#160;</div>
-<div class="line"><a name="l00003"></a><span class="lineno">    3</span>&#160;<span class="preprocessor">#warning &quot;No IFM module configured&quot;</span></div>
-</div><!-- fragment --></div><!-- contents -->
+<div class="textblock"><h1><a class="anchor" id="app_fwupdate"></a>
+app_fwupdate</h1>
+<p>This application provides the functionality to program our SOMANET nodes through EtherCAT (slave side).<br/>
+ </p>
+<h1><a class="anchor" id="app_linux_fwupdate"></a>
+app_linux_fwupdate</h1>
+<p>This application provides the functionality to program our SOMANET nodes through EtherCAT (host side).<br/>
+ Firmware Update Client for Synapticon SOMANET over Ethercat</p>
+<p>Usage : fw_update eth0 Options ID filepath </p>
+<pre class="fragment">   Options:
+           -s     specify serial number for the ethercat slave
+           -seq   specify slave number in EtherCAT order 1..n
+           -all   update all slaves connected to the system
+           -scan  scan the slave/slaves connected and display their serial numbers
+</pre><p>specify the ID number after options -s &amp; -seq followed by /path/to/your/file </p>
+</div></div><!-- contents -->
 </div><!-- doc-content -->
 <!-- HTML footer for doxygen 1.8.3.1-->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dir_5e3bd0868581beb4216a5f0e249602c3.html">module_nodeconfig</a></li><li class="navelem"><a class="el" href="../../dir_66e383a044820ce3614fac1b6736f29c.html">src</a></li><li class="navelem"><a class="el" href="../../dc/d3d/ifm__null__xc_8inc.html">ifm_null_xc.inc</a></li>
     <li class="footer">Developed at
     <a href="http://www.synapticon.com">
     <img class="footer" style="width: 30%" src="../../synapticon-logo-scaled.png" alt="Synapticon"/></a>&nbsp;(Documentation generated on Wed Mar 5 2014)</li>
