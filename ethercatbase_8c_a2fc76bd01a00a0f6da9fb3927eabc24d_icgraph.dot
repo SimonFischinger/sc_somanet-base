@@ -1,0 +1,33 @@
+digraph "ec_FPWRw"
+{
+ // INTERACTIVE_SVG=YES
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="ec_FPWRw",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled" fontcolor="black"];
+  Node1 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="ec_config_init",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$ethercatconfig_8h.html#ae9128b2cb982fd03fae9105d746f8656"];
+  Node2 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="ec_config",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$ethercatconfig_8h.html#a502e65cce3b0b5f8dbcabf6f25dab351"];
+  Node3 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="slaveinfo",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$slaveinfo_8c.html#a3552c609d2e51520c4afde65240a22d6"];
+  Node4 -> Node5 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="main",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$slaveinfo_8c.html#a0ddf1224851353fc92bfbff6f499fa97"];
+  Node2 -> Node6 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="firmware_update",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$fw__update_8c.html#a9e518a566b750155578e5328f5485c73"];
+  Node6 -> Node7 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node7 [label="main",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$main_8xc.html#a840291bc02cba5474a4cb46a9b9566fe"];
+  Node1 -> Node8 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node8 [label="ec_config_map_group",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$ethercatconfig_8h.html#ae1120a5cace4aa56cf753977ccd37b8d"];
+  Node8 -> Node9 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node9 [label="ec_config_map",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$ethercatconfig_8h.html#aa740a2ba948117670c4f9741bc31cc38"];
+  Node9 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node9 -> Node6 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node1 -> Node10 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node10 [label="ec_reconfig_slave",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$ethercatconfig_8h.html#abcb0583af47e109f6fc0fb9b90f9f7cf"];
+  Node1 -> Node11 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node11 [label="ec_recover_slave",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$ethercatconfig_8h.html#a9b5b7f6f83d4ee41b72306891f0679f1"];
+  Node1 -> Node12 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node12 [label="ec_writestate",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$ethercatmain_8h.html#a0750885eaa4230b7815a84ce8d627984"];
+  Node12 -> Node6 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+}

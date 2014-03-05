@@ -1,0 +1,33 @@
+digraph "ec_APRD"
+{
+ // INTERACTIVE_SVG=YES
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="ec_APRD",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled" fontcolor="black"];
+  Node1 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="ec_APRDw",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$ethercatbase_8h.html#ae04f6096929eed658625620ba507b219"];
+  Node2 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="ec_config_init",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$ethercatconfig_8h.html#ae9128b2cb982fd03fae9105d746f8656"];
+  Node3 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="ec_config",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$ethercatconfig_8h.html#a502e65cce3b0b5f8dbcabf6f25dab351"];
+  Node4 -> Node5 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="slaveinfo",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$slaveinfo_8c.html#a3552c609d2e51520c4afde65240a22d6"];
+  Node5 -> Node6 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="main",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$slaveinfo_8c.html#a0ddf1224851353fc92bfbff6f499fa97"];
+  Node3 -> Node7 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node7 [label="firmware_update",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$fw__update_8c.html#a9e518a566b750155578e5328f5485c73"];
+  Node7 -> Node8 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node8 [label="main",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$main_8xc.html#a840291bc02cba5474a4cb46a9b9566fe"];
+  Node1 -> Node9 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node9 [label="ec_eeprom_waitnotbusyAP",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$ethercatmain_8c.html#af4b40499a69dd20db5aa8da081c7274f"];
+  Node9 -> Node10 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node10 [label="ec_readeepromAP",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$ethercatmain_8h.html#ad1f3c620e76b3395d7deccc23ef0f8c5"];
+  Node10 -> Node11 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node11 [label="eeprom_read",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$fw__update_8c.html#a1f7b392753323c242f0c4fafb71def77"];
+  Node11 -> Node7 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node9 -> Node12 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node12 [label="ec_writeeepromAP",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$ethercatmain_8h.html#a968dc550dde8340fbe80032f81662427"];
+  Node1 -> Node10 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node1 -> Node11 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+}

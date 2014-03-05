@@ -1,0 +1,12 @@
+<map id="fl_eraseSector" name="fl_eraseSector">
+<area shape="rect" id="node3" href="$flashlib_8c.html#acb5319d1f07823b2be65a52aa6ccc584" title="fl_deleteImage" alt="" coords="185,5,292,35"/>
+<area shape="rect" id="node7" href="$flashlib_8c.html#af2ef69107a081338100714f35b55d2b4" title="fl_eraseAll" alt="" coords="197,59,280,88"/>
+<area shape="rect" id="node17" href="$flashlib_8c.html#a1a2f7c26d4b3f30997961c54cc86091f" title="fl_eraseAllDataSectors" alt="" coords="161,112,316,141"/>
+<area shape="rect" id="node19" href="$flashlib_8c.html#a706db7e49dc9b87c5eb4b08703766e07" title="fl_eraseDataSector" alt="" coords="172,165,305,195"/>
+<area shape="rect" id="node21" href="$flashlib_8c.html#a0b9de23c2221ee978540ccf39df36f58" title="fl_writeData" alt="" coords="193,219,284,248"/>
+<area shape="rect" id="node5" href="$flashlib_8c.html#a46bc82cb8669dd0e1c304e8528a02706" title="fl_eraseNextBootImage" alt="" coords="367,5,524,35"/>
+<area shape="rect" id="node9" href="$flash__write_8c.html#ab0f5e74332e187a2dbcd0f78f48458e8" title="flash_erase" alt="" coords="401,59,489,88"/>
+<area shape="rect" id="node11" href="$flash__write_8c.html#a68a08738ba4df3403b89a376ac330862" title="flash_setup" alt="" coords="575,59,663,88"/>
+<area shape="rect" id="node13" href="$flash__somanet_8xc.html#a17156495777f802c805e3b2bb340500c" title="check_file_access" alt="" coords="712,59,843,88"/>
+<area shape="rect" id="node15" href="$flash__somanet_8xc.html#a9e5fd5ed65b86c6c5a9aa1ffabc08486" title="Firmware update function This thread must be on CORE 0 only. " alt="" coords="892,59,1009,88"/>
+</map>

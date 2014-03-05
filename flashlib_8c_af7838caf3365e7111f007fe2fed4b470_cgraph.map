@@ -1,0 +1,6 @@
+<map id="fl_getNumDataPages" name="fl_getNumDataPages">
+<area shape="rect" id="node3" href="$flashlib_8c.html#aceeb386909181fdfa7e1c8527b5b3841" title="fl_getDataPartitionSize" alt="" coords="201,31,356,60"/>
+<area shape="rect" id="node10" href="$flashlib_8c.html#a16979f134ba813049ace4eaf4469de15" title="fl_getPageSize" alt="" coords="224,84,333,113"/>
+<area shape="rect" id="node5" href="$flashlib_8c.html#a8d249287795e51c71d2aad170ea6675b" title="fl_getBootPartitionSize" alt="" coords="405,5,560,35"/>
+<area shape="rect" id="node7" href="$flashlib_8c.html#ab799c7f07d473e0e76035ff44b6f85e1" title="fl_getFlashSize" alt="" coords="608,32,720,61"/>
+</map>

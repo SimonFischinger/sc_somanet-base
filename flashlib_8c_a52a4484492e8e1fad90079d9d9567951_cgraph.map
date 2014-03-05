@@ -1,0 +1,12 @@
+<map id="fl_connect" name="fl_connect">
+<area shape="rect" id="node3" href="$flashlib_8c.html#ad23b58e44ae1b5af52894fce310ca434" title="fl_connectToDevice" alt="" coords="136,139,275,168"/>
+<area shape="rect" id="node5" href="$device__access_8h.html#aac37ff5d65ba80e640896ee865ecd39c" title="fl_int_spiMasterInit" alt="" coords="347,5,477,35"/>
+<area shape="rect" id="node7" href="$device__access_8h.html#ae114de5a23f913ad3ba7e96736f67d56" title="fl_int_spiInit" alt="" coords="367,59,457,88"/>
+<area shape="rect" id="node9" href="$device__access_8h.html#a337b2d2786247180a460fd0bab3f68b5" title="fl_int_issueShortCommand" alt="" coords="323,112,501,141"/>
+<area shape="rect" id="node11" href="$device__access_8h.html#a1529e8493ee4731f2c295fc236a8b4fe" title="fl_int_readBytes" alt="" coords="355,165,469,195"/>
+<area shape="rect" id="node13" href="$flashlib_8c.html#a324148726c3c56a53a66654b3b2e3280" title="fl_setBootPartitionSize" alt="" coords="335,219,489,248"/>
+<area shape="rect" id="node17" href="$flashlib_8c.html#ab799c7f07d473e0e76035ff44b6f85e1" title="fl_getFlashSize" alt="" coords="739,245,851,275"/>
+<area shape="rect" id="node15" href="$flashlib_8c.html#a3b61390db2ebba8879f52d771d0c57a0" title="fl_getNumSectors" alt="" coords="557,193,683,223"/>
+<area shape="rect" id="node20" href="$flashlib_8c.html#a99564c0c2c3b18f122d551dd5621d1fe" title="fl_getSectorAddress" alt="" coords="551,140,689,169"/>
+<area shape="rect" id="node22" href="$flashlib_8c.html#a16979f134ba813049ace4eaf4469de15" title="fl_getPageSize" alt="" coords="740,140,849,169"/>
+</map>

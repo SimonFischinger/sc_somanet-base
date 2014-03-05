@@ -1,0 +1,9 @@
+<map id="ec_APWRw" name="ec_APWRw">
+<area shape="rect" id="node3" href="$ethercatconfig_8h.html#ae9128b2cb982fd03fae9105d746f8656" title="ec_config_init" alt="" coords="161,32,263,61"/>
+<area shape="rect" id="node15" href="$ethercatconfig_8h.html#a9b5b7f6f83d4ee41b72306891f0679f1" title="ec_recover_slave" alt="" coords="151,85,273,115"/>
+<area shape="rect" id="node5" href="$ethercatconfig_8h.html#a502e65cce3b0b5f8dbcabf6f25dab351" title="ec_config" alt="" coords="344,5,421,35"/>
+<area shape="rect" id="node11" href="$fw__update_8c.html#a9e518a566b750155578e5328f5485c73" title="firmware_update" alt="" coords="324,59,441,88"/>
+<area shape="rect" id="node7" href="$slaveinfo_8c.html#a3552c609d2e51520c4afde65240a22d6" title="slaveinfo" alt="" coords="491,5,565,35"/>
+<area shape="rect" id="node9" href="$slaveinfo_8c.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="613,5,664,35"/>
+<area shape="rect" id="node13" href="$main_8xc.html#a840291bc02cba5474a4cb46a9b9566fe" title="main" alt="" coords="503,59,553,88"/>
+</map>

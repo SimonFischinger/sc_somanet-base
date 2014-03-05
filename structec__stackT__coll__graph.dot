@@ -1,0 +1,7 @@
+digraph "ec_stackT"
+{
+ // INTERACTIVE_SVG=YES
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node1 [label="{ec_stackT\n|+ sock\l+ txbuf\l+ txbuflength\l+ tempbuf\l+ rxbuf\l+ rxbufstat\l+ rxsa\l|}",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled" fontcolor="black"];
+}

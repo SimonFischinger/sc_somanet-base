@@ -1,0 +1,12 @@
+digraph "chipReset"
+{
+ // INTERACTIVE_SVG=YES
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="chipReset",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled" fontcolor="black"];
+  Node1 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="reset_cores",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$flash__somanet_8xc.html#a81e371718b1d30be39ca667b3c3876f9"];
+  Node1 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="reset_last_core",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$flash__somanet_8xc.html#ac5c0ead4f37073baa8a333464bd1fe52"];
+}

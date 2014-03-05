@@ -1,0 +1,6 @@
+<map id="flash_buffer" name="flash_buffer">
+<area shape="rect" id="node3" href="$flashlib_8c.html#a4674d4a2c001df74f5896bfa2b755fc6" title="fl_writePage" alt="" coords="145,32,239,61"/>
+<area shape="rect" id="node5" href="$device__access_8h.html#a6c1bbcb51957e927bca94d3538796765" title="fl_int_waitWhileWriting" alt="" coords="288,5,443,35"/>
+<area shape="rect" id="node7" href="$flashlib_8c.html#afca05cd9d07e1a2a2bfda23a7191b1bc" title="fl_setWritability" alt="" coords="309,59,421,88"/>
+<area shape="rect" id="node9" href="$device__access_8h.html#a337b2d2786247180a460fd0bab3f68b5" title="fl_int_issueShortCommand" alt="" coords="491,59,669,88"/>
+</map>

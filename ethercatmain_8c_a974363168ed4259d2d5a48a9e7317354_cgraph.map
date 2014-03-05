@@ -1,0 +1,4 @@
+<map id="ec_receive_processdata_group" name="ec_receive_processdata_group">
+<area shape="rect" id="node3" href="$nicdrv_8c.html#a121be26fdb9da9ef5b9f217fdcd2d50f" title="ec_setbufstat" alt="" coords="376,13,477,43"/>
+<area shape="rect" id="node5" href="$nicdrv_8c.html#a3bcbccf53a33907e16fa67c8e5b45d40" title="ec_waitinframe" alt="" coords="217,39,327,68"/>
+</map>

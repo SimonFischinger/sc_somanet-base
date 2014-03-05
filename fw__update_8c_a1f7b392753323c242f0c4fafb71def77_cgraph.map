@@ -1,0 +1,12 @@
+<map id="eeprom_read" name="eeprom_read">
+<area shape="rect" id="node3" href="$ethercatbase_8c.html#a80f6087e11fc1a42832f7c7872122308" title="ec_APRD" alt="" coords="563,31,643,60"/>
+<area shape="rect" id="node18" href="$ethercatbase_8c.html#a02a1741d276571009e46fbe39e9f729f" title="ec_APWR" alt="" coords="561,136,644,166"/>
+<area shape="rect" id="node24" href="$ethercatmain_8c.html#ad1f3c620e76b3395d7deccc23ef0f8c5" title="ec_readeepromAP" alt="" coords="153,83,281,112"/>
+<area shape="rect" id="node5" href="$nicdrv_8c.html#ae3520c51670d8e4e3e360f26fd8acee4" title="ec_getindex" alt="" coords="713,83,804,112"/>
+<area shape="rect" id="node7" href="$nicdrv_8c.html#a121be26fdb9da9ef5b9f217fdcd2d50f" title="ec_setbufstat" alt="" coords="881,110,983,139"/>
+<area shape="rect" id="node9" href="$ethercatbase_8c.html#a3b9a1e2b9fc1e15cf147a85d484db027" title="ec_setupdatagram" alt="" coords="695,30,823,59"/>
+<area shape="rect" id="node11" href="$nicdrv_8c.html#ae49716ef495b23fc91261396fb2f49ec" title="ec_srconfirm" alt="" coords="711,136,807,166"/>
+<area shape="rect" id="node13" href="$nicdrv_8c.html#afb39cbe067b1afa202e8c487a33c4d66" title="ec_outframe_red" alt="" coords="873,163,991,192"/>
+<area shape="rect" id="node15" href="$nicdrv_8c.html#ace7534023c2df9a309fc51a5e7fd6d94" title="ec_outframe" alt="" coords="1041,163,1135,192"/>
+<area shape="rect" id="node28" href="$ethercatmain_8c.html#af4b40499a69dd20db5aa8da081c7274f" title="ec_eeprom_waitnotbusyAP" alt="" coords="331,83,512,112"/>
+</map>

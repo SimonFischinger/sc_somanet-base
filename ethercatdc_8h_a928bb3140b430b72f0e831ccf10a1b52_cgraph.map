@@ -1,0 +1,14 @@
+<map id="ec_configdc" name="ec_configdc">
+<area shape="rect" id="node3" href="$ethercatbase_8c.html#a3ad29de613339c69a0b132114928b208" title="ec_BWR" alt="" coords="160,179,235,208"/>
+<area shape="rect" id="node18" href="$ethercatbase_8c.html#aac2dc2b5a39ace0793473ab89bb56c7d" title="ec_FPRD" alt="" coords="157,126,237,155"/>
+<area shape="rect" id="node24" href="$ethercatbase_8c.html#aa2fe58363a824f15838718ee31f11ffc" title="ec_FPWR" alt="" coords="156,72,239,102"/>
+<area shape="rect" id="node30" href="$ethercatdc_8c.html#a2ef951e56c248526e468b9666e889042" title="ec_parentport" alt="" coords="147,232,248,262"/>
+<area shape="rect" id="node32" href="$ethercatdc_8c.html#ac68fe74e5d8764ba735412bbd67df709" title="ec_porttime" alt="" coords="152,286,243,315"/>
+<area shape="rect" id="node34" href="$ethercatdc_8c.html#a9315c092bc7820bbbcc13bfb23840dcc" title="ec_prevport" alt="" coords="152,339,243,368"/>
+<area shape="rect" id="node5" href="$nicdrv_8c.html#ae3520c51670d8e4e3e360f26fd8acee4" title="ec_getindex" alt="" coords="316,126,407,155"/>
+<area shape="rect" id="node7" href="$nicdrv_8c.html#a121be26fdb9da9ef5b9f217fdcd2d50f" title="ec_setbufstat" alt="" coords="484,20,585,50"/>
+<area shape="rect" id="node9" href="$ethercatbase_8c.html#a3b9a1e2b9fc1e15cf147a85d484db027" title="ec_setupdatagram" alt="" coords="297,179,425,208"/>
+<area shape="rect" id="node11" href="$nicdrv_8c.html#ae49716ef495b23fc91261396fb2f49ec" title="ec_srconfirm" alt="" coords="313,72,409,102"/>
+<area shape="rect" id="node13" href="$nicdrv_8c.html#afb39cbe067b1afa202e8c487a33c4d66" title="ec_outframe_red" alt="" coords="476,74,593,103"/>
+<area shape="rect" id="node15" href="$nicdrv_8c.html#ace7534023c2df9a309fc51a5e7fd6d94" title="ec_outframe" alt="" coords="644,74,737,103"/>
+</map>

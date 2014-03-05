@@ -1,0 +1,4 @@
+<map id="chipReset" name="chipReset">
+<area shape="rect" id="node3" href="$flash__somanet_8xc.html#a81e371718b1d30be39ca667b3c3876f9" title="reset_cores" alt="" coords="147,5,237,35"/>
+<area shape="rect" id="node5" href="$flash__somanet_8xc.html#ac5c0ead4f37073baa8a333464bd1fe52" title="reset_last_core" alt="" coords="137,59,247,88"/>
+</map>

@@ -1,0 +1,14 @@
+<map id="ec_siifind" name="ec_siifind">
+<area shape="rect" id="node3" href="$ethercatconfig_8h.html#ae9128b2cb982fd03fae9105d746f8656" title="ec_config_init" alt="" coords="299,165,400,195"/>
+<area shape="rect" id="node7" href="$slaveinfo_8c.html#a3552c609d2e51520c4afde65240a22d6" title="slaveinfo" alt="" coords="800,229,875,259"/>
+<area shape="rect" id="node15" href="$ethercatmain_8h.html#ab382409c9f74891f82e87dcc7fad875e" title="ec_siiFMMU" alt="" coords="131,59,227,88"/>
+<area shape="rect" id="node18" href="$ethercatmain_8h.html#aef972d9668958da9db3c350e159caddb" title="ec_siiPDO" alt="" coords="136,5,221,35"/>
+<area shape="rect" id="node26" href="$ethercatmain_8h.html#a54c0c0d13f6c7b38e98ab91f4db29514" title="ec_siiSM" alt="" coords="141,112,216,141"/>
+<area shape="rect" id="node29" href="$ethercatmain_8h.html#a4fe43f91402e635e7087b9f1e09d7703" title="ec_siistring" alt="" coords="135,165,223,195"/>
+<area shape="rect" id="node5" href="$ethercatconfig_8h.html#a502e65cce3b0b5f8dbcabf6f25dab351" title="ec_config" alt="" coords="653,191,731,220"/>
+<area shape="rect" id="node11" href="$fw__update_8c.html#a9e518a566b750155578e5328f5485c73" title="firmware_update" alt="" coords="633,137,751,167"/>
+<area shape="rect" id="node9" href="$slaveinfo_8c.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="923,229,973,259"/>
+<area shape="rect" id="node13" href="$main_8xc.html#a840291bc02cba5474a4cb46a9b9566fe" title="main" alt="" coords="812,137,863,167"/>
+<area shape="rect" id="node20" href="$ethercatconfig_8h.html#ae1120a5cace4aa56cf753977ccd37b8d" title="ec_config_map_group" alt="" coords="275,59,424,88"/>
+<area shape="rect" id="node22" href="$ethercatconfig_8h.html#aa740a2ba948117670c4f9741bc31cc38" title="ec_config_map" alt="" coords="473,88,583,117"/>
+</map>

@@ -1,0 +1,7 @@
+digraph "ec_groupt"
+{
+ // INTERACTIVE_SVG=YES
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node1 [label="{ec_groupt\n|+ logstartaddr\l+ Obytes\l+ outputs\l+ Ibytes\l+ inputs\l+ hasdc\l+ DCnext\l+ Ebuscurrent\l+ blockLRW\l+ nsegments\l+ Isegment\l+ Ioffset\l+ expectedWKC\l+ docheckstate\l+ IOsegment\l|}",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled" fontcolor="black"];
+}

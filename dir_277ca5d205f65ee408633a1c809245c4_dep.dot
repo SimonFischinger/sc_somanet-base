@@ -1,0 +1,9 @@
+digraph "app_linux_fwupdate/src" {
+  compound=true
+  node [ fontsize="10", fontname="Helvetica"];
+  edge [ labelfontsize="10", labelfontname="Helvetica"];
+  subgraph clusterdir_e7e346bd07d31fe3449a4aeac76b9d4a {
+    graph [ bgcolor="#ddddee", pencolor="black", label="app_linux_fwupdate" fontname="Helvetica", fontsize="10", URL="dir_e7e346bd07d31fe3449a4aeac76b9d4a.html"]
+  dir_277ca5d205f65ee408633a1c809245c4 [shape=box, label="src", style="filled", fillcolor="#eeeeff", pencolor="black", URL="dir_277ca5d205f65ee408633a1c809245c4.html"];
+  }
+}

@@ -1,0 +1,33 @@
+<map id="ec_config_init" name="ec_config_init">
+<area shape="rect" id="node3" href="$ethercatbase_8c.html#ae04f6096929eed658625620ba507b219" title="ec_APRDw" alt="" coords="309,410,400,439"/>
+<area shape="rect" id="node20" href="$ethercatbase_8c.html#aca3c5979b5549da9f4a6f441a74e132b" title="ec_APWRw" alt="" coords="160,53,253,82"/>
+<area shape="rect" id="node28" href="$ethercatbase_8c.html#a30d9ab75b270ba904509fb1af2b8dc17" title="ec_BRD" alt="" coords="1039,253,1111,282"/>
+<area shape="rect" id="node34" href="$ethercatbase_8c.html#a3ad29de613339c69a0b132114928b208" title="ec_BWR" alt="" coords="1037,146,1112,175"/>
+<area shape="rect" id="node40" href="$ethercatconfig_8c.html#a8aa31990a858c7e049cfb4de24f28f3e" title="ec_findconfig" alt="" coords="157,207,256,237"/>
+<area shape="rect" id="node42" href="$ethercatbase_8c.html#aac2dc2b5a39ace0793473ab89bb56c7d" title="ec_FPRD" alt="" coords="1035,306,1115,335"/>
+<area shape="rect" id="node48" href="$ethercatbase_8c.html#a1cebb240642f321d1f641e8a1ffe2fa4" title="ec_FPRDw" alt="" coords="309,357,400,386"/>
+<area shape="rect" id="node51" href="$ethercatbase_8c.html#aa2fe58363a824f15838718ee31f11ffc" title="ec_FPWR" alt="" coords="852,565,935,594"/>
+<area shape="rect" id="node57" href="$ethercatbase_8c.html#a2fc76bd01a00a0f6da9fb3927eabc24d" title="ec_FPWRw" alt="" coords="641,1077,735,1106"/>
+<area shape="rect" id="node60" href="$ethercatmain_8c.html#aacc964b3a092b666f8011717be911d35" title="ec_readeeprom" alt="" coords="459,562,568,591"/>
+<area shape="rect" id="node72" href="$ethercatmain_8c.html#ad920436309547d99e23cb8fd7b56b1bc" title="ec_readeeprom1" alt="" coords="455,485,572,514"/>
+<area shape="rect" id="node77" href="$ethercatmain_8c.html#a31e35cc2f33ecf639db43c79850462ab" title="ec_readeeprom2" alt="" coords="629,306,747,335"/>
+<area shape="rect" id="node81" href="$ethercatmain_8c.html#af44cb7b11dccd4ea221079ae0a8138e8" title="ec_siifind" alt="" coords="316,717,393,746"/>
+<area shape="rect" id="node83" href="$ethercatmain_8c.html#a6c314f9524aa84af885f1e6426b71148" title="ec_siigetbyte" alt="" coords="464,666,563,695"/>
+<area shape="rect" id="node90" href="$ethercatmain_8c.html#ab382409c9f74891f82e87dcc7fad875e" title="ec_siiFMMU" alt="" coords="159,622,255,651"/>
+<area shape="rect" id="node96" href="$ethercatmain_8c.html#a54c0c0d13f6c7b38e98ab91f4db29514" title="ec_siiSM" alt="" coords="169,745,244,774"/>
+<area shape="rect" id="node101" href="$ethercatmain_8c.html#acfb749a5fbaaa6d560204757be2170f5" title="ec_siiSMnext" alt="" coords="304,973,405,1002"/>
+<area shape="rect" id="node105" href="$ethercatmain_8c.html#a4fe43f91402e635e7087b9f1e09d7703" title="ec_siistring" alt="" coords="163,834,251,863"/>
+<area shape="rect" id="node110" href="$ethercatmain_8c.html#a8f77918c0a6a32be1079a11119171901" title="ec_statecheck" alt="" coords="840,202,947,231"/>
+<area shape="rect" id="node5" href="$ethercatbase_8c.html#a80f6087e11fc1a42832f7c7872122308" title="ec_APRD" alt="" coords="1035,410,1115,439"/>
+<area shape="rect" id="node7" href="$nicdrv_8c.html#ae3520c51670d8e4e3e360f26fd8acee4" title="ec_getindex" alt="" coords="1185,359,1276,389"/>
+<area shape="rect" id="node9" href="$nicdrv_8c.html#a121be26fdb9da9ef5b9f217fdcd2d50f" title="ec_setbufstat" alt="" coords="1353,333,1455,362"/>
+<area shape="rect" id="node11" href="$ethercatbase_8c.html#a3b9a1e2b9fc1e15cf147a85d484db027" title="ec_setupdatagram" alt="" coords="1167,253,1295,282"/>
+<area shape="rect" id="node13" href="$nicdrv_8c.html#ae49716ef495b23fc91261396fb2f49ec" title="ec_srconfirm" alt="" coords="1183,306,1279,335"/>
+<area shape="rect" id="node15" href="$nicdrv_8c.html#afb39cbe067b1afa202e8c487a33c4d66" title="ec_outframe_red" alt="" coords="1345,279,1463,309"/>
+<area shape="rect" id="node17" href="$nicdrv_8c.html#ace7534023c2df9a309fc51a5e7fd6d94" title="ec_outframe" alt="" coords="1513,279,1607,309"/>
+<area shape="rect" id="node22" href="$ethercatbase_8c.html#a02a1741d276571009e46fbe39e9f729f" title="ec_APWR" alt="" coords="1033,199,1116,229"/>
+<area shape="rect" id="node62" href="$ethercatmain_8c.html#a027bd337ebfa1d39de8a7a1f5c5287de" title="ec_eeprom2master" alt="" coords="621,562,755,591"/>
+<area shape="rect" id="node65" href="$ethercatmain_8c.html#ace89c7536b04427ffb755e77a5525855" title="ec_readeepromFP" alt="" coords="624,615,752,645"/>
+<area shape="rect" id="node67" href="$ethercatmain_8c.html#a683af1ff758441cb62905cb041e428a1" title="ec_eeprom_waitnotbusyFP" alt="" coords="804,461,983,490"/>
+<area shape="rect" id="node87" href="$ethercatmain_8c.html#ae149a6cd4a61c22efa4cf4185ffd83be" title="ec_eeprom2pdi" alt="" coords="459,782,568,811"/>
+</map>

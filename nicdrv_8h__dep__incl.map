@@ -1,0 +1,12 @@
+<map id="app_linux_fwupdate/src/nicdrv.h" name="app_linux_fwupdate/src/nicdrv.h">
+<area shape="rect" id="node3" href="$ethercatbase_8c.html" title="Base EtherCAT functions. " alt="" coords="5,102,141,149"/>
+<area shape="rect" id="node5" href="$ethercatcoe_8c.html" title="CAN over EtherCAT (CoE) module. " alt="" coords="165,102,301,149"/>
+<area shape="rect" id="node7" href="$ethercatconfig_8c.html" title="Configuration module for EtherCAT master. " alt="" coords="325,102,467,149"/>
+<area shape="rect" id="node9" href="$ethercatdc_8c.html" title="Distributed Clock EtherCAT functions. " alt="" coords="491,102,627,149"/>
+<area shape="rect" id="node11" href="$ethercatfoe_8c.html" title="File over EtherCAT (FoE) module. " alt="" coords="651,102,787,149"/>
+<area shape="rect" id="node13" href="$ethercatmain_8c.html" title="Main EtherCAT functions. " alt="" coords="811,102,947,149"/>
+<area shape="rect" id="node15" href="$ethercatsoe_8c.html" title="Servo over EtherCAT (SoE) Module. " alt="" coords="971,102,1107,149"/>
+<area shape="rect" id="node17" href="$fw__update_8c.html" title="Firmware Update for Synapticon SOMANET (modified from Example code for Simple Open EtherCAT master) ..." alt="" coords="1131,102,1267,149"/>
+<area shape="rect" id="node19" href="$nicdrv_8c.html" title="EtherCAT RAW socket driver. " alt="" coords="1291,102,1427,149"/>
+<area shape="rect" id="node21" href="$slaveinfo_8c.html" title="Example code for Simple Open EtherCAT master. " alt="" coords="1451,102,1587,149"/>
+</map>

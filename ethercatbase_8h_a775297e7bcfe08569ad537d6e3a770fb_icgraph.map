@@ -1,0 +1,8 @@
+<map id="ec_adddatagram" name="ec_adddatagram">
+<area shape="rect" id="node3" href="$ethercatbase_8h.html#ae2b92060d47d3ea8b18cff9184113eba" title="ec_LRWDC" alt="" coords="201,5,295,35"/>
+<area shape="rect" id="node5" href="$ethercatmain_8h.html#a5e2063e4eb419e7abdcc9d863dc7a7b4" title="ec_send_processdata\l_group" alt="" coords="173,58,323,105"/>
+<area shape="rect" id="node7" href="$ethercatmain_8h.html#a30c66bb9d54e741149f7d40bbdb21078" title="ec_send_processdata" alt="" coords="371,67,520,96"/>
+<area shape="rect" id="node9" href="$fw__update_8c.html#a0b61db68de5685610c1325922debd520" title="slave_operation" alt="" coords="572,40,684,69"/>
+<area shape="rect" id="node11" href="$fw__update_8c.html#a9e518a566b750155578e5328f5485c73" title="firmware_update" alt="" coords="569,93,687,123"/>
+<area shape="rect" id="node13" href="$main_8xc.html#a840291bc02cba5474a4cb46a9b9566fe" title="main" alt="" coords="736,93,787,123"/>
+</map>

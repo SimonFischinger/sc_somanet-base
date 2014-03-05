@@ -1,0 +1,54 @@
+digraph "fl_setWritability"
+{
+ // INTERACTIVE_SVG=YES
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="fl_setWritability",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled" fontcolor="black"];
+  Node1 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="fl_endWriteImage",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$flashlib_8c.html#af7955bbee8d2a50e0bd245d6440f6481"];
+  Node2 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="fl_addBootImage",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$flashlib_8c.html#a0e9859ecf89b920715c00666e515a228"];
+  Node2 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="flash_buf_end",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$flash__write_8c.html#a3e54da2e8e6ba5af71398e3a5231418e"];
+  Node4 -> Node5 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="check_file_access",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$flash__somanet_8xc.html#a17156495777f802c805e3b2bb340500c"];
+  Node5 -> Node6 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="firmware_update",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$flash__somanet_8xc.html#a9e5fd5ed65b86c6c5a9aa1ffabc08486",tooltip="Firmware update function This thread must be on CORE 0 only. "];
+  Node1 -> Node7 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node7 [label="fl_eraseSector",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$flashlib_8c.html#a2876e611cf9546f70196d3eba65e551c"];
+  Node7 -> Node8 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node8 [label="fl_deleteImage",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$flashlib_8c.html#acb5319d1f07823b2be65a52aa6ccc584"];
+  Node8 -> Node9 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node9 [label="fl_eraseNextBootImage",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$flashlib_8c.html#a46bc82cb8669dd0e1c304e8528a02706"];
+  Node7 -> Node10 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node10 [label="fl_eraseAll",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$flashlib_8c.html#af2ef69107a081338100714f35b55d2b4"];
+  Node10 -> Node11 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node11 [label="flash_erase",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$flash__write_8c.html#ab0f5e74332e187a2dbcd0f78f48458e8"];
+  Node11 -> Node12 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node12 [label="flash_setup",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$flash__write_8c.html#a68a08738ba4df3403b89a376ac330862"];
+  Node12 -> Node5 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node7 -> Node13 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node13 [label="fl_eraseAllDataSectors",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$flashlib_8c.html#a1a2f7c26d4b3f30997961c54cc86091f"];
+  Node7 -> Node14 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node14 [label="fl_eraseDataSector",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$flashlib_8c.html#a706db7e49dc9b87c5eb4b08703766e07"];
+  Node7 -> Node15 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node15 [label="fl_writeData",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$flashlib_8c.html#a0b9de23c2221ee978540ccf39df36f58"];
+  Node1 -> Node16 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node16 [label="fl_setProtection",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$flashlib_8c.html#a3558707626664fd2f5f6a5da36f606d5"];
+  Node16 -> Node12 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node1 -> Node17 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node17 [label="fl_setSectorProtection",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$flashlib_8c.html#a1327d915bc1202dec40911e92977fcb7"];
+  Node17 -> Node16 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node1 -> Node18 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node18 [label="fl_writePage",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$flashlib_8c.html#a4674d4a2c001df74f5896bfa2b755fc6"];
+  Node18 -> Node19 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node19 [label="flash_buffer",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$flash__write_8c.html#aa95af78c975518743162c9e42fd4abf3"];
+  Node19 -> Node5 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node18 -> Node20 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node20 [label="fl_writeDataPage",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$flashlib_8c.html#a3c30029697e228c4c0e03f1bf9f2e5ce"];
+  Node18 -> Node21 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node21 [label="fl_writeImagePage",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$flashlib_8c.html#a798d15cac91a60cf0d42ef5dbaddafe4"];
+  Node21 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node18 -> Node15 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+}

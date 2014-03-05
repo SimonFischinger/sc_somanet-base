@@ -1,0 +1,7 @@
+<map id="fl_connectToDevice" name="fl_connectToDevice">
+<area shape="rect" id="node3" href="$flashlib_8c.html#a52a4484492e8e1fad90079d9d9567951" title="fl_connect" alt="" coords="192,5,275,35"/>
+<area shape="rect" id="node5" href="$flash__write_8c.html#a71381947178f46aaf26d2c5a3c148a9f" title="flash_connect" alt="" coords="324,5,425,35"/>
+<area shape="rect" id="node7" href="$flash__write_8c.html#a68a08738ba4df3403b89a376ac330862" title="flash_setup" alt="" coords="476,5,564,35"/>
+<area shape="rect" id="node9" href="$flash__somanet_8xc.html#a17156495777f802c805e3b2bb340500c" title="check_file_access" alt="" coords="613,5,744,35"/>
+<area shape="rect" id="node11" href="$flash__somanet_8xc.html#a9e5fd5ed65b86c6c5a9aa1ffabc08486" title="Firmware update function This thread must be on CORE 0 only. " alt="" coords="793,5,911,35"/>
+</map>

@@ -1,0 +1,20 @@
+digraph "fl_int_spiMasterInit"
+{
+ // INTERACTIVE_SVG=YES
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="fl_int_spiMasterInit",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled" fontcolor="black"];
+  Node1 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="fl_connectToDevice",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$flashlib_8c.html#ad23b58e44ae1b5af52894fce310ca434"];
+  Node2 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="fl_connect",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$flashlib_8c.html#a52a4484492e8e1fad90079d9d9567951"];
+  Node3 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="flash_connect",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$flash__write_8c.html#a71381947178f46aaf26d2c5a3c148a9f"];
+  Node4 -> Node5 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="flash_setup",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$flash__write_8c.html#a68a08738ba4df3403b89a376ac330862"];
+  Node5 -> Node6 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="check_file_access",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$flash__somanet_8xc.html#a17156495777f802c805e3b2bb340500c"];
+  Node6 -> Node7 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node7 [label="firmware_update",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$flash__somanet_8xc.html#a9e5fd5ed65b86c6c5a9aa1ffabc08486",tooltip="Firmware update function This thread must be on CORE 0 only. "];
+}

@@ -1,0 +1,6 @@
+<map id="fl_getNumDataSectors" name="fl_getNumDataSectors">
+<area shape="rect" id="node3" href="$flashlib_8c.html#a8ccbe7b65551adf7bf1ecf0479e2dfc6" title="fl_getDataPartitionBase" alt="" coords="208,7,368,36"/>
+<area shape="rect" id="node9" href="$flashlib_8c.html#a3b61390db2ebba8879f52d771d0c57a0" title="fl_getNumSectors" alt="" coords="431,59,556,88"/>
+<area shape="rect" id="node5" href="$flashlib_8c.html#a8d249287795e51c71d2aad170ea6675b" title="fl_getBootPartitionSize" alt="" coords="416,5,571,35"/>
+<area shape="rect" id="node7" href="$flashlib_8c.html#ab799c7f07d473e0e76035ff44b6f85e1" title="fl_getFlashSize" alt="" coords="619,32,731,61"/>
+</map>
