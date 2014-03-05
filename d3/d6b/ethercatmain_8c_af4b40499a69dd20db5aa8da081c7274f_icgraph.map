@@ -1,7 +1,0 @@
-<map id="ec_eeprom_waitnotbusyAP" name="ec_eeprom_waitnotbusyAP">
-<area shape="rect" id="node3" href="$d8/d38/ethercatmain_8h.html#ad1f3c620e76b3395d7deccc23ef0f8c5" title="ec_readeepromAP" alt="" coords="237,5,365,35"/>
-<area shape="rect" id="node11" href="$d8/d38/ethercatmain_8h.html#a968dc550dde8340fbe80032f81662427" title="ec_writeeepromAP" alt="" coords="236,59,367,88"/>
-<area shape="rect" id="node5" href="$d2/dd1/fw__update_8c.html#a1f7b392753323c242f0c4fafb71def77" title="eeprom_read" alt="" coords="417,5,513,35"/>
-<area shape="rect" id="node7" href="$d2/dd1/fw__update_8c.html#a9e518a566b750155578e5328f5485c73" title="firmware_update" alt="" coords="564,5,681,35"/>
-<area shape="rect" id="node9" href="$da/d39/main_8xc.html#a840291bc02cba5474a4cb46a9b9566fe" title="main" alt="" coords="731,5,781,35"/>
-</map>

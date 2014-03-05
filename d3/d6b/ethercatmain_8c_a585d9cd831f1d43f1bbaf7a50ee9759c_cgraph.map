@@ -1,9 +1,0 @@
-<map id="ec_readstate" name="ec_readstate">
-<area shape="rect" id="node3" href="$d5/d74/ethercatbase_8c.html#aac2dc2b5a39ace0793473ab89bb56c7d" title="ec_FPRD" alt="" coords="152,84,232,113"/>
-<area shape="rect" id="node5" href="$dc/d9b/nicdrv_8c.html#ae3520c51670d8e4e3e360f26fd8acee4" title="ec_getindex" alt="" coords="300,5,391,35"/>
-<area shape="rect" id="node7" href="$dc/d9b/nicdrv_8c.html#a121be26fdb9da9ef5b9f217fdcd2d50f" title="ec_setbufstat" alt="" coords="468,84,569,113"/>
-<area shape="rect" id="node9" href="$d5/d74/ethercatbase_8c.html#a3b9a1e2b9fc1e15cf147a85d484db027" title="ec_setupdatagram" alt="" coords="281,109,409,139"/>
-<area shape="rect" id="node11" href="$dc/d9b/nicdrv_8c.html#ae49716ef495b23fc91261396fb2f49ec" title="ec_srconfirm" alt="" coords="297,163,393,192"/>
-<area shape="rect" id="node13" href="$dc/d9b/nicdrv_8c.html#afb39cbe067b1afa202e8c487a33c4d66" title="ec_outframe_red" alt="" coords="460,163,577,192"/>
-<area shape="rect" id="node15" href="$dc/d9b/nicdrv_8c.html#ace7534023c2df9a309fc51a5e7fd6d94" title="ec_outframe" alt="" coords="628,163,721,192"/>
-</map>

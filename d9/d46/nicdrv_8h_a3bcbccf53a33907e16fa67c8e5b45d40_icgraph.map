@@ -1,7 +1,0 @@
-<map id="ec_waitinframe" name="ec_waitinframe">
-<area shape="rect" id="node3" href="$d8/d38/ethercatmain_8h.html#a974363168ed4259d2d5a48a9e7317354" title="ec_receive_processdata\l_group" alt="" coords="165,23,328,70"/>
-<area shape="rect" id="node5" href="$d8/d38/ethercatmain_8h.html#a14280050ace4427d196acd17e6d79e55" title="ec_receive_processdata" alt="" coords="376,32,539,61"/>
-<area shape="rect" id="node7" href="$d2/dd1/fw__update_8c.html#a9e518a566b750155578e5328f5485c73" title="firmware_update" alt="" coords="588,5,705,35"/>
-<area shape="rect" id="node11" href="$d2/dd1/fw__update_8c.html#a0b61db68de5685610c1325922debd520" title="slave_operation" alt="" coords="591,59,703,88"/>
-<area shape="rect" id="node9" href="$da/d39/main_8xc.html#a840291bc02cba5474a4cb46a9b9566fe" title="main" alt="" coords="755,5,805,35"/>
-</map>

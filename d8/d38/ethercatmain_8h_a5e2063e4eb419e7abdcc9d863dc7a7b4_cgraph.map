@@ -1,7 +1,0 @@
-<map id="ec_send_processdata_group" name="ec_send_processdata_group">
-<area shape="rect" id="node3" href="$d5/d74/ethercatbase_8c.html#a775297e7bcfe08569ad537d6e3a770fb" title="ec_adddatagram" alt="" coords="209,5,327,35"/>
-<area shape="rect" id="node5" href="$dc/d9b/nicdrv_8c.html#ae3520c51670d8e4e3e360f26fd8acee4" title="ec_getindex" alt="" coords="223,59,313,88"/>
-<area shape="rect" id="node7" href="$dc/d9b/nicdrv_8c.html#afb39cbe067b1afa202e8c487a33c4d66" title="ec_outframe_red" alt="" coords="209,112,327,141"/>
-<area shape="rect" id="node11" href="$d5/d74/ethercatbase_8c.html#a3b9a1e2b9fc1e15cf147a85d484db027" title="ec_setupdatagram" alt="" coords="204,165,332,195"/>
-<area shape="rect" id="node9" href="$dc/d9b/nicdrv_8c.html#ace7534023c2df9a309fc51a5e7fd6d94" title="ec_outframe" alt="" coords="383,112,476,141"/>
-</map>

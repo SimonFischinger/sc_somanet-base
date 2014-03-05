@@ -1,6 +1,0 @@
-<map id="fl_setSectorProtection" name="fl_setSectorProtection">
-<area shape="rect" id="node3" href="$df/dfa/flashlib_8c.html#a3558707626664fd2f5f6a5da36f606d5" title="fl_setProtection" alt="" coords="207,5,319,35"/>
-<area shape="rect" id="node5" href="$da/df9/flash__write_8c.html#a68a08738ba4df3403b89a376ac330862" title="flash_setup" alt="" coords="369,5,457,35"/>
-<area shape="rect" id="node7" href="$da/d37/flash__somanet_8xc.html#a17156495777f802c805e3b2bb340500c" title="check_file_access" alt="" coords="507,5,637,35"/>
-<area shape="rect" id="node9" href="$da/d37/flash__somanet_8xc.html#a9e5fd5ed65b86c6c5a9aa1ffabc08486" title="Firmware update function This thread must be on CORE 0 only. " alt="" coords="687,5,804,35"/>
-</map>

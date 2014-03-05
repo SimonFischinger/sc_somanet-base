@@ -1,18 +1,18 @@
 var NAVTREE =
 [
   [ "sc_sncn_ethercat", "index.html", [
-    [ "Modules", "d7/df6/mods.html", [
-      [ "module_cloudconnect", "d7/df6/mods.html#module_cloudconnect", null ],
-      [ "module_fwupdate", "d7/df6/mods.html#module_fwupdate", null ],
-      [ "module_nodeconfig", "d7/df6/mods.html#module_nodeconfig", null ],
-      [ "module_powermgmt", "d7/df6/mods.html#module_powermgmt", null ]
+    [ "Modules", "mods.html", [
+      [ "module_cloudconnect", "mods.html#module_cloudconnect", null ],
+      [ "module_fwupdate", "mods.html#module_fwupdate", null ],
+      [ "module_nodeconfig", "mods.html#module_nodeconfig", null ],
+      [ "module_powermgmt", "mods.html#module_powermgmt", null ]
     ] ],
-    [ "Applications", "d3/d4f/apps.html", [
-      [ "app_fwupdate", "d3/d4f/apps.html#app_fwupdate", null ],
-      [ "app_linux_fwupdate", "d3/d4f/apps.html#app_linux_fwupdate", null ]
+    [ "Applications", "apps.html", [
+      [ "app_fwupdate", "apps.html#app_fwupdate", null ],
+      [ "app_linux_fwupdate", "apps.html#app_linux_fwupdate", null ]
     ] ],
-    [ "Synapticon", "de/daa/company.html", null ],
-    [ "License", "de/d54/legal.html", null ],
+    [ "Synapticon", "company.html", null ],
+    [ "License", "legal.html", null ],
     [ "Data Structures", null, [
       [ "Data Structures", "annotated.html", "annotated" ],
       [ "Data Structure Index", "classes.html", null ],
@@ -39,10 +39,10 @@ var NAVTREE =
 var NAVTREEINDEX =
 [
 "annotated.html",
-"d2/dbb/ethercattype_8h.html#ad84fdcfc25cec6820c3ade24359c26e9",
-"d5/d21/structPACKED.html#a6a97ce60dec2215f7357718e072f1a67",
-"d8/d38/ethercatmain_8h.html#a8f77918c0a6a32be1079a11119171901",
-"dc/d9b/nicdrv_8c_source.html"
+"ethercatmain_8h.html#a430e1266d5c0c1bd4153b660e4fa5298",
+"ethercattype_8h.html#aaf105ae5beaca1dee30ae54530691fcea2e267a452bf2324d4065f74d21f87717",
+"functions_vars_o.html",
+"structPACKED.html#aa2930c26602bba1b0e5d60db65a4177f"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

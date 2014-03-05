@@ -1,5 +1,0 @@
-<map id="fl_getSectorSize" name="fl_getSectorSize">
-<area shape="rect" id="node3" href="$df/dfa/flashlib_8c.html#ac4f79f3ad9a3ad1cddcda0cb1e4e6ebe" title="fl_getDataSectorSize" alt="" coords="179,5,325,35"/>
-<area shape="rect" id="node5" href="$df/dfa/flashlib_8c.html#aea6a11cdce54e32ab9ef47a14f746652" title="fl_getWriteScratchSize" alt="" coords="175,59,329,88"/>
-<area shape="rect" id="node7" href="$df/dfa/flashlib_8c.html#a0b9de23c2221ee978540ccf39df36f58" title="fl_writeData" alt="" coords="207,112,297,141"/>
-</map>

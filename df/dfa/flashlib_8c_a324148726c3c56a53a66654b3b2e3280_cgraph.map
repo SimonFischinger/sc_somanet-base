@@ -1,6 +1,0 @@
-<map id="fl_setBootPartitionSize" name="fl_setBootPartitionSize">
-<area shape="rect" id="node3" href="$df/dfa/flashlib_8c.html#ab799c7f07d473e0e76035ff44b6f85e1" title="fl_getFlashSize" alt="" coords="397,5,509,35"/>
-<area shape="rect" id="node5" href="$df/dfa/flashlib_8c.html#a3b61390db2ebba8879f52d771d0c57a0" title="fl_getNumSectors" alt="" coords="216,31,341,60"/>
-<area shape="rect" id="node8" href="$df/dfa/flashlib_8c.html#a99564c0c2c3b18f122d551dd5621d1fe" title="fl_getSectorAddress" alt="" coords="209,84,348,113"/>
-<area shape="rect" id="node10" href="$df/dfa/flashlib_8c.html#a16979f134ba813049ace4eaf4469de15" title="fl_getPageSize" alt="" coords="399,84,508,113"/>
-</map>
