@@ -2,7 +2,6 @@ var searchData=
 [
   ['main',['main',['../main_8xc.html#a840291bc02cba5474a4cb46a9b9566fe',1,'main(void):&#160;main.xc'],['../fw__update_8c.html#a0ddf1224851353fc92bfbff6f499fa97',1,'main(int argc, char *argv[]):&#160;fw_update.c'],['../slaveinfo_8c.html#a0ddf1224851353fc92bfbff6f499fa97',1,'main(int argc, char *argv[]):&#160;slaveinfo.c']]],
   ['main_2exc',['main.xc',['../main_8xc.html',1,'']]],
-  ['mainpage_2edox',['mainpage.dox',['../mainpage_8dox.html',1,'']]],
   ['man',['man',['../structec__configlist__t.html#a459ee260e6dd6efd6147cad944052582',1,'ec_configlist_t']]],
   ['max_5fmbxdatalength',['MAX_MBXDATALENGTH',['../fw__update_8c.html#a0bb030a099ae07294fce91cd18513544',1,'fw_update.c']]],
   ['max_5fpage_5fsize',['MAX_PAGE_SIZE',['../flashlib_8c.html#a7c4410712a9f7874ae814e10ebbc3f5b',1,'flashlib.c']]],

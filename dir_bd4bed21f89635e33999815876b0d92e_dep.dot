@@ -1,9 +1,0 @@
-digraph "module_powermgmt/src" {
-  compound=true
-  node [ fontsize="10", fontname="Helvetica"];
-  edge [ labelfontsize="10", labelfontname="Helvetica"];
-  subgraph clusterdir_6870f34012ad9c15787db204a63503d4 {
-    graph [ bgcolor="#ddddee", pencolor="black", label="module_powermgmt" fontname="Helvetica", fontsize="10", URL="dir_6870f34012ad9c15787db204a63503d4.html"]
-  dir_bd4bed21f89635e33999815876b0d92e [shape=box, label="src", style="filled", fillcolor="#eeeeff", pencolor="black", URL="dir_bd4bed21f89635e33999815876b0d92e.html"];
-  }
-}

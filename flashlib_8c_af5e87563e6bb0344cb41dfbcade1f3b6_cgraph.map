@@ -1,0 +1,6 @@
+<map id="fl_readData" name="fl_readData">
+<area shape="rect" id="node3" href="$flashlib_8c.html#a8ccbe7b65551adf7bf1ecf0479e2dfc6" title="fl_getDataPartitionBase" alt="" coords="144,5,304,35"/>
+<area shape="rect" id="node9" href="$device__access_8h.html#a1529e8493ee4731f2c295fc236a8b4fe" title="fl_int_readBytes" alt="" coords="167,59,281,88"/>
+<area shape="rect" id="node5" href="$flashlib_8c.html#a8d249287795e51c71d2aad170ea6675b" title="fl_getBootPartitionSize" alt="" coords="352,5,507,35"/>
+<area shape="rect" id="node7" href="$flashlib_8c.html#ab799c7f07d473e0e76035ff44b6f85e1" title="fl_getFlashSize" alt="" coords="555,5,667,35"/>
+</map>

@@ -1,7 +1,0 @@
-digraph "ec_configlist_t"
-{
- // INTERACTIVE_SVG=YES
-  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
-  node [fontname="Helvetica",fontsize="10",shape=record];
-  Node1 [label="{ec_configlist_t\n|+ man\l+ id\l+ name\l+ Dtype\l+ Ibits\l+ Obits\l+ SM2a\l+ SM2f\l+ SM3a\l+ SM3f\l+ FM0ac\l+ FM1ac\l|}",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled" fontcolor="black"];
-}

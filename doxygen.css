@@ -18,7 +18,7 @@ h1.groupheader {
 }
 
 h2.groupheader {
-	border-bottom: 1px solid #C1C171;
+	border-bottom: 1px solid #C0C070;
 	color: #5E5E29;
 	font-size: 150%;
 	font-weight: normal;
@@ -176,7 +176,7 @@ div.fragment {
         padding: 4px 6px;
         margin: 4px 8px 4px 2px;
 	background-color: #FDFDFA;
-	border: 1px solid #E0E0B8;
+	border: 1px solid #DFDFB8;
 }
 
 div.line {
@@ -271,7 +271,7 @@ div.contents {
 td.indexkey {
 	background-color: #F4F4E7;
 	font-weight: bold;
-	border: 1px solid #E0E0B8;
+	border: 1px solid #DFDFB8;
 	margin: 2px 0px 2px 0;
 	padding: 2px 10px;
         white-space: nowrap;
@@ -280,7 +280,7 @@ td.indexkey {
 
 td.indexvalue {
 	background-color: #F4F4E7;
-	border: 1px solid #E0E0B8;
+	border: 1px solid #DFDFB8;
 	padding: 2px 10px;
 	margin: 2px 0px;
 }
@@ -654,8 +654,8 @@ span.mlabel {
         background-color: #B6B659;
         border-top:1px solid #9B9B44;
         border-left:1px solid #9B9B44;
-        border-right:1px solid #E0E0B8;
-        border-bottom:1px solid #E0E0B8;
+        border-right:1px solid #DFDFB8;
+        border-bottom:1px solid #DFDFB8;
 	text-shadow: none;
 	color: white;
 	margin-right: 4px;
@@ -1006,7 +1006,7 @@ div.header
         background-repeat:repeat-x;
 	background-color: #FBFBF8;
 	margin:  0px;
-	border-bottom: 1px solid #E0E0B8;
+	border-bottom: 1px solid #DFDFB8;
 }
 
 div.headertitle

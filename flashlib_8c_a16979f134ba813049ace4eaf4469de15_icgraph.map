@@ -1,0 +1,28 @@
+<map id="fl_getPageSize" name="fl_getPageSize">
+<area shape="rect" id="node3" href="$flashlib_8c.html#a0e9859ecf89b920715c00666e515a228" title="fl_addBootImage" alt="" coords="609,37,729,67"/>
+<area shape="rect" id="node5" href="$flashlib_8c.html#af7838caf3365e7111f007fe2fed4b470" title="fl_getNumDataPages" alt="" coords="177,219,324,248"/>
+<area shape="rect" id="node7" href="$flashlib_8c.html#a224a4e25ebfca097bdc3d674ceaeed43" title="fl_readDataPage" alt="" coords="404,116,521,145"/>
+<area shape="rect" id="node9" href="$flashlib_8c.html#a3c30029697e228c4c0e03f1bf9f2e5ce" title="fl_writeDataPage" alt="" coords="401,169,524,199"/>
+<area shape="rect" id="node11" href="$flashlib_8c.html#a99564c0c2c3b18f122d551dd5621d1fe" title="fl_getSectorAddress" alt="" coords="181,329,320,359"/>
+<area shape="rect" id="node40" href="$flashlib_8c.html#a0b9de23c2221ee978540ccf39df36f58" title="fl_writeData" alt="" coords="417,489,508,519"/>
+<area shape="rect" id="node42" href="$flashlib_8c.html#a570137cb3fd7f4c7f3178ee3cf6a8dfa" title="fl_getSectorSize" alt="" coords="192,436,309,465"/>
+<area shape="rect" id="node48" href="$device__access_8xc.html#a119cdd041305e5408c518a4948654df6" title="fl_int_programPageAsync" alt="" coords="165,540,336,569"/>
+<area shape="rect" id="node53" href="$flashlib_8c.html#a51e187c5578caba8160d023f374e3f1b" title="fl_readPage" alt="" coords="205,115,296,144"/>
+<area shape="rect" id="node56" href="$flashlib_8c.html#a798d15cac91a60cf0d42ef5dbaddafe4" title="fl_writeImagePage" alt="" coords="397,63,528,92"/>
+<area shape="rect" id="node59" href="$flashlib_8c.html#a818a7761fa3b28cf20ce618cbb2481b6" title="fl_startImageRead" alt="" coords="187,593,315,623"/>
+<area shape="rect" id="node13" href="$flashlib_8c.html#a1327d915bc1202dec40911e92977fcb7" title="fl_setSectorProtection" alt="" coords="388,223,537,252"/>
+<area shape="rect" id="node23" href="$flashlib_8c.html#a324148726c3c56a53a66654b3b2e3280" title="fl_setBootPartitionSize" alt="" coords="385,276,540,305"/>
+<area shape="rect" id="node32" href="$flashlib_8c.html#a10e0e41c7b86cc4ededeb0c33a38a75d" title="fl_getNextBootImage" alt="" coords="391,329,535,359"/>
+<area shape="rect" id="node36" href="$flashlib_8c.html#ad5bb339d347247b5122a10bf18ddfcf1" title="fl_startImageAddAt" alt="" coords="396,383,529,412"/>
+<area shape="rect" id="node38" href="$flashlib_8c.html#aea6a11cdce54e32ab9ef47a14f746652" title="fl_getWriteScratchSize" alt="" coords="385,436,540,465"/>
+<area shape="rect" id="node15" href="$flashlib_8c.html#a3558707626664fd2f5f6a5da36f606d5" title="fl_setProtection" alt="" coords="799,223,911,252"/>
+<area shape="rect" id="node17" href="$flash__write_8c.html#a68a08738ba4df3403b89a376ac330862" title="flash_setup" alt="" coords="1113,251,1201,280"/>
+<area shape="rect" id="node19" href="$flash__somanet_8xc.html#a17156495777f802c805e3b2bb340500c" title="check_file_access" alt="" coords="1251,251,1381,280"/>
+<area shape="rect" id="node21" href="$flash__somanet_8xc.html#a9e5fd5ed65b86c6c5a9aa1ffabc08486" title="Firmware update function This thread must be on CORE 0 only. " alt="" coords="1431,251,1548,280"/>
+<area shape="rect" id="node25" href="$flashlib_8c.html#ad23b58e44ae1b5af52894fce310ca434" title="fl_connectToDevice" alt="" coords="600,276,739,305"/>
+<area shape="rect" id="node27" href="$flashlib_8c.html#a52a4484492e8e1fad90079d9d9567951" title="fl_connect" alt="" coords="813,276,896,305"/>
+<area shape="rect" id="node29" href="$flash__write_8c.html#a71381947178f46aaf26d2c5a3c148a9f" title="flash_connect" alt="" coords="961,276,1063,305"/>
+<area shape="rect" id="node34" href="$flashlib_8c.html#a46bc82cb8669dd0e1c304e8528a02706" title="fl_eraseNextBootImage" alt="" coords="591,329,748,359"/>
+<area shape="rect" id="node44" href="$flashlib_8c.html#ac4f79f3ad9a3ad1cddcda0cb1e4e6ebe" title="fl_getDataSectorSize" alt="" coords="389,543,536,572"/>
+<area shape="rect" id="node50" href="$device__access_8xc.html#ab24728d7b2504b18f6d5e2b8e6cca21b" title="fl_int_programPage" alt="" coords="396,596,529,625"/>
+</map>
